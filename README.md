@@ -23,7 +23,7 @@ mv glove.840B.300d.txt word2vec/ && rm glove.840B.300d.zip
 
 3. Copy and organize `data` folder into `reproduce_fig2`, creating `train_orig.txt` and `test.txt` in each dataset folder
 
-4. Process data for training; this is produce `aeda` and `eda` augmentation on top of the original training data. Refer to [Hyperparameters Used for Data Processing](https://github.com/yoonichoi/aeda_reimplement/#hyperparametersusedfordataprocessing)
+4. Process data for training; this is produce `aeda` and `eda` augmentation on top of the original training data. Refer to [Hyperparameters Used for Data Processing](https://github.com/yoonichoi/aeda_reimplement#hyperparameters-used-for-data-processing)
 
 ```bash
 python reproduce_fig2/data_process.py
