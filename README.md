@@ -29,6 +29,12 @@ mv glove.840B.300d.txt word2vec/ && rm glove.840B.300d.zip
 python reproduce_fig2/data_process.py
 ```
 
+5. Run experiments. Running following code will automatically run all experiments according to config specified in `reproduce_fig2/config.py`, and output results to `reproduce_fig2/outputs`.
+```bash
+chmod +x reproduce_fig2/run_exp.sh
+reproduce_fig2/run_exp.sh
+```
+
 ---
 
 ### Hyperparameters Used for data processing
