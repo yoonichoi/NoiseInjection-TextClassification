@@ -1,21 +1,43 @@
-# AEDA: An Easier Data Augmentation Technique for Text Classification
+# Reimplemnting AEDA
 
-This is the code for the EMNLP 2021 paper [AEDA: An Easier Data Augmentation Technique for Text Classification](https://arxiv.org/abs/2108.13230)
+This is the reimplementation code of Figure 2 in [AEDA: An Easier Data Augmentation Technique for Text Classification](https://arxiv.org/abs/2108.13230)
 
-The baseline code is for [EDA: Easy Data Augmentation techniques for boosting performance on text classification tasks](https://arxiv.org/abs/1901.11196)
+AEDA takes the baseline code from [EDA: Easy Data Augmentation techniques for boosting performance on text classification tasks](https://arxiv.org/abs/1901.11196) ([GitHub Link](https://github.com/jasonwei20/eda_nlp))
 
-Our augmentation code can be found in the code folder titled aeda.py. In addition, we also make available our train and test data which is in the data folder.
+![alt text](aeda_figure2.png)
 
-![alt text](aeda_figure.png)
-# Citation
+---
+
+# Steps to reproduce results
+1. Set up requirements
+```bash
+pip install -r requirements.txt
 ```
-@misc{karimi2021aeda,
-      title={AEDA: An Easier Data Augmentation Technique for Text Classification},
-      author={Akbar Karimi and Leonardo Rossi and Andrea Prati},
-      year={2021},
-      eprint={2108.13230},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
 
+2. Download `glove.840B.300d` to `word2vec/` folder
+```bash
+wget https://nlp.stanford.edu/data/glove.840B.300d.zip && unzip glove.840B.300d.zip
+mkdir word2vec 
+mv glove.840B.300d.txt word2vec/ && rm glove.840B.300d.zip
 ```
+
+3. Copy and organize `data` folder into `reproduce_fig2`, creating `train_orig.txt` and `test.txt` in each dataset folder
+
+4. Process data for training; this is produce `aeda` and `eda` augmentation on top of the original training data. Refer to [Hyperparameters Used for Data Processing](https://github.com/yoonichoi/aeda_reimplement/#hyperparametersusedfordataprocessing)
+
+```bash
+python reproduce_fig2/data_process.py
+```
+
+---
+
+### Hyperparameters Used for data processing
+
+| Hyperparameter   | EDA  | AEDA  |
+|------------------|-----------|------------|
+| alpha_sr         | 0.3       | -          |
+| alpha_ri         | 0.2       | -          |
+| alpha_rs         | 0.1       | -          |
+| p_rd             | 0.15      | -          |
+| punc_ratio       | -         | 0.3        |
+| num_aug          | 9         | 9          |
