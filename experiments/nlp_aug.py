@@ -31,25 +31,25 @@ stop_words = ['i', 'me', 'my', 'myself', 'we', 'our',
 #cleaning up text
 import re
 def get_only_chars(line):
-    clean_line = ""
+	clean_line = ""
 
-    line = line.replace("’", "")
-    line = line.replace("'", "")
-    line = line.replace("-", " ") #replace hyphens with spaces
-    line = line.replace("\t", " ")
-    line = line.replace("\n", " ")
-    line = line.lower()
+	line = line.replace("’", "")
+	line = line.replace("'", "")
+	line = line.replace("-", " ") #replace hyphens with spaces
+	line = line.replace("\t", " ")
+	line = line.replace("\n", " ")
+	line = line.lower()
 
-    for char in line:
-        if char in 'qwertyuiopasdfghjklzxcvbnm ':
-            clean_line += char
-        else:
-            clean_line += ' '
-    clean_line = re.sub(' +',' ',clean_line) #delete extra spaces
-    if len(clean_line) > 0:
-	    if clean_line[0] == ' ':
-	        clean_line = clean_line[1:]
-    return clean_line
+	for char in line:
+		if char in 'qwertyuiopasdfghjklzxcvbnm ':
+			clean_line += char
+		else:
+			clean_line += ' '
+	clean_line = re.sub(' +',' ',clean_line) #delete extra spaces
+	if len(clean_line) > 0:
+		if clean_line[0] == ' ':
+			clean_line = clean_line[1:]
+	return clean_line
 
 ########################################################################
 # Synonym replacement
@@ -57,8 +57,8 @@ def get_only_chars(line):
 ########################################################################
 
 #for the first time you use wordnet
-#import nltk
-#nltk.download('wordnet')
+import nltk
+nltk.download('wordnet')
 from nltk.corpus import wordnet 
 
 def synonym_replacement(words, n):
