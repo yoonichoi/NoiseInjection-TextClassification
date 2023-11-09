@@ -8,7 +8,7 @@ dataset_folders = ['increment_datasets_f2/' + dataset for dataset in datasets]
 num_classes_list = [2, 2, 2, 6, 2]#[2, 2, 2, 6, 2]
 
 #dataset increments
-increments = [1]#[0.01, 0.05, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1]
+increments = [1] #[0.01, 0.05, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1]
 
 #number of words for input
 input_size_list = [50, 50, 40, 25, 25]#[50, 50, 40, 25, 25]
