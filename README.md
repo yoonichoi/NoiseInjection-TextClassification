@@ -30,6 +30,8 @@ python reproduce_fig2/data_process.py
 ```
 
 5. Run experiments. Running following code will automatically run all experiments according to config specified in `reproduce_fig2/config.py`, and output results to `reproduce_fig2/outputs`.
+
+_*Note: running below script will run `train_eval.py` in 5 different seeds sequentially. Feel free to run the experiments in a parallalized manner._
 ```bash
 chmod +x reproduce_fig2/run_exp.sh
 reproduce_fig2/run_exp.sh
