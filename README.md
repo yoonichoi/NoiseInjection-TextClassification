@@ -4,7 +4,10 @@ This is the reimplementation code of Figure 2 in [AEDA: An Easier Data Augmentat
 
 AEDA takes the baseline code from [EDA: Easy Data Augmentation techniques for boosting performance on text classification tasks](https://arxiv.org/abs/1901.11196) ([GitHub Link](https://github.com/jasonwei20/eda_nlp))
 
+### Original Figure 2 from Paper
 ![alt text](aeda_figure2.png)
+### Our replication
+![alt text](reproduce_fig2/outputs/plots/combined_accuracy_trend.png)
 
 ---
 
