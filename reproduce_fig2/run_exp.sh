@@ -1,4 +1,3 @@
-
 python3 reproduce_fig2/train_eval.py 0
 
 python3 reproduce_fig2/train_eval.py 1

@@ -56,7 +56,7 @@ if __name__ == "__main__":
 	eda_accs = {dataset:{} for dataset in datasets}
 	aeda_accs = {dataset:{} for dataset in datasets}
 
-	writer = open('reproduce_fig2/outputs/' + get_now_str() + '.csv', 'w')
+	writer = open(f'reproduce_fig2/outputs/result_{sd}.csv', 'w')
 
 	#for each dataset
 	for i, dataset_folder in enumerate(dataset_folders):
@@ -89,7 +89,9 @@ if __name__ == "__main__":
 
 			print(dataset, increment, orig_acc, eda_acc, aeda_acc)
 			writer.write(dataset + ',' + str(increment) + ',' + str(orig_acc) + ',' + str(eda_acc) + ',' + str(aeda_acc) + '\n')
+			writer.flush()
 
 			gc.collect()
+		
 
 	print(orig_accs, eda_accs, aeda_accs)
