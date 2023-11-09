@@ -18,5 +18,5 @@ if __name__ == "__main__":
 		gen_aeda_aug(train_orig, train_aeda)	# creates train+aeda
 
 		#generate the vocab dictionary
-		word2vec_pickle = dataset_folder + '/word2vec.p' # don't want to load the huge pickle every time, so just save the words that are actually used into a smaller dictionary
+		word2vec_pickle = dataset_folder + '/word2vec.pkl' # don't want to load the huge pickle every time, so just save the words that are actually used into a smaller dictionary
 		gen_vocab_dicts(dataset_folder, word2vec_pickle, huge_word2vec)
