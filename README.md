@@ -23,15 +23,15 @@ mv glove.840B.300d.txt word2vec/ && rm glove.840B.300d.zip
 
 3. Copy and organize `data` folder into `reproduce_fig2`, creating `train_orig.txt` and `test.txt` in each dataset folder
 
-4. Process data for training; this is produce `aeda` and `eda` augmentation on top of the original training data. Refer to [Hyperparameters Used for Data Processing](https://github.com/yoonichoi/aeda_reimplement#hyperparameters-used-for-data-processing)
+4. Process data for training; this is produce `aeda` and `eda` augmentation on top of the original training data. Refer to [Hyperparameters Used for Data Processing](https://github.com/yoonichoi/aeda_reimplement#hyperparameters-used-for-data-processing), which is already set as the default value.
 
 ```bash
 python reproduce_fig2/data_process.py
 ```
 
-5. Run experiments. Running following code will automatically run all experiments according to config specified in `reproduce_fig2/config.py`, and output results to `reproduce_fig2/outputs`.
+5. Running following command will automatically run all experiments according to config specified in `reproduce_fig2/config.py`, and output results to `reproduce_fig2/outputs`.
 
-_*Note: running below script will run `train_eval.py` in 5 different seeds sequentially. Feel free to run the experiments in a parallalized manner._
+_*Note: running below script will run `train_eval.py` in 5 different seeds sequentially. Feel free to run the experiments in a parallalized manner if you want to speed up things._
 ```bash
 chmod +x reproduce_fig2/run_exp.sh
 reproduce_fig2/run_exp.sh

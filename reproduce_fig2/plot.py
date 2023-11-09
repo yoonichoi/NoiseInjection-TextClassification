@@ -14,7 +14,8 @@ average_df = aggregated_df.groupby(['Dataset', 'Percentage']).mean().reset_index
 
 average_df.to_csv(f'{folder_path}/aggregated_results.csv', index=False)
 
-datasets = average_df['Dataset'].unique()
+datasets = ['sst2', 'cr', 'subj', 'trec', 'pc']
+# datasets = ['sst2', 'cr']
 
 fig, axes = plt.subplots(1, len(datasets), figsize=(15, 5), sharey=True)
 
@@ -27,7 +28,9 @@ for i, dataset in enumerate(datasets):
 
     axes[i].set_xlabel('Percentage of Data')
     axes[i].set_ylabel('Accuracy')
-    axes[i].set_title(f'{dataset}')
+
+    title = {'cr':'CR', 'pc':'PC', 'sst2':'SST-2', 'subj':'SUBJ','trec':'TREC'}
+    axes[i].set_title(title[dataset])
     axes[i].legend()
 
 # Save the figure with all subplots
