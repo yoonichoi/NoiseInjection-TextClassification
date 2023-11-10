@@ -42,9 +42,9 @@ chmod +x reproduce_fig2/run_exp.sh
 reproduce_fig2/run_exp.sh
 ```
 
-6. (Optional) Run below command to create a figure based on the experiments result. It should look similar to the one in the original paper!
+6. (Optional) Run below command to create a figure based on the experiments result, specifying the folder in `reproduce_fig2/outputs/` that you want to create plots based on. It should look similar to the one in the original paper!
 ```bash
-python reproduce_fig2/plot.py
+python reproduce_fig2/plot.py initial
 ```
 
 ---

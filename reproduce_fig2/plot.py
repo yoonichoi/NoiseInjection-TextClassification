@@ -3,9 +3,11 @@ import matplotlib.pyplot as plt
 import glob
 
 from PIL import Image
-import os
+import sys
 
-folder_path = 'reproduce_fig2/outputs'
+basepath = 'reproduce_fig2/outputs'
+folder_path = f'{basepath}/{sys.argv[1]}'
+
 file_paths = []
 for sd in range(5):
     file_paths.extend(glob.glob(f'{folder_path}/result_{sd}.csv'))
@@ -47,7 +49,7 @@ for i, dataset in enumerate(datasets):
 
 
 
-folder_path = 'reproduce_fig2/outputs/plots'
+folder_path = f'{folder_path}/plots'
 datasets = ['sst2', 'cr', 'subj', 'trec', 'pc']
 
 # Open the images and resize them to have the same height
