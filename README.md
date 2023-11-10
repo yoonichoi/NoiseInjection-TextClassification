@@ -9,7 +9,7 @@ AEDA takes the baseline code from [EDA: Easy Data Augmentation techniques for bo
 ### Our replication
 You can find individual plots with better resolution in [`reproduce_fig2/outputs/plots`](https://github.com/yoonichoi/aeda_reimplement/tree/master/reproduce_fig2/outputs/plots)
 
-![alt text](reproduce_fig2/outputs/plots/combined_accuracy_trend.png)
+![alt text](reproduce_fig2/outputs/initial/plots/combined_accuracy_trend.png)
 
 ---
 
