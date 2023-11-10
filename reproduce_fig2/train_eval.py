@@ -44,7 +44,7 @@ def run_model(train_file, test_file, num_classes, percent_dataset, mode=None):
 
 	if mode is not None:
 		basepath, dataset, aug = mode
-		analyze_path = os.path.join(basepath, dataset, str(increment), aug)
+		analyze_path = os.path.join(basepath, 'analyze_result', dataset, str(increment), aug)
 		os.makedirs(analyze_path, exist_ok=True)
 		save_pickle(analyze_path + '/y_pred.pkl', y_pred)
 		save_pickle(analyze_path + '/test_x.pkl', test_x)
@@ -123,9 +123,8 @@ if __name__ == "__main__":
 			gc.collect()
 
 	if analyze_mode:
-		with shutil.ZipFile(f'{basepath}/result_analysis.zip', 'w') as zipf:
-			for dataset in datasets:
-				zipf.write(f'{basepath}/{dataset}', arcname=folder)
+		zip_dir = f'{basepath}/analyze_result'
+		shutil.make_archive(f'{zip_dir}/analyze_result.zip', 'zip', zip_dir)
 		print(f"Zip file for result analysis created successfully.")
 
 	print(orig_accs, eda_accs, aeda_accs)
