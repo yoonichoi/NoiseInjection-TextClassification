@@ -5,6 +5,8 @@ import random
 import pickle
 import argparse
 import os
+import shutil
+import gc
 
 ###############################
 #### run model and get acc ####
@@ -119,6 +121,11 @@ if __name__ == "__main__":
 			writer.flush()
 
 			gc.collect()
-		
+
+	if analyze_mode:
+		with shutil.ZipFile(f'{basepath}/result_analysis.zip', 'w') as zipf:
+			for dataset in datasets:
+				zipf.write(f'{basepath}/{dataset}', arcname=folder)
+		print(f"Zip file for result analysis created successfully.")
 
 	print(orig_accs, eda_accs, aeda_accs)
