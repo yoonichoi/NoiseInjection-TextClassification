@@ -40,6 +40,10 @@ from aeda_aug import *
 def load_pickle(file):
 	return pickle.load(open(file, 'rb'))
 
+def save_pickle(filepath, data):
+    with open(filepath, 'wb') as f:
+        pickle.dump(data, f)
+
 #create an output folder if it does not already exist
 def confirm_output_folder(output_folder):
 	if not os.path.exists(output_folder):

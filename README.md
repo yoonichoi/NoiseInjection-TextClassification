@@ -36,10 +36,15 @@ python reproduce_fig2/data_process.py
 
 5. Running following command will automatically run all experiments according to config specified in `reproduce_fig2/config.py`, and output results to `reproduce_fig2/outputs`.
 
-_*Note: running below script will run `train_eval.py` in 5 different seeds sequentially. Feel free to run the experiments in a parallalized manner if you want to speed things up._
+_*Note: running below script will run `train_eval.py` in 5 different seeds sequentially, without `analyze` feature. Feel free to run the experiments in a parallalized manner if you want to speed things up._
 ```bash
 chmod +x reproduce_fig2/run_exp.sh
 reproduce_fig2/run_exp.sh
+```
+
+`train_eval.py` takes two arguments, `seed` and `analyze`. If you use `analyze` flag, it will save `test_x`, `test_y` and `pred_y` into `.pkl` files for further analysis.
+```bash
+python reproduce_fig2/train_eval.py --seed 0 --analyze
 ```
 
 6. (Optional) Run below command to create a figure based on the experiments result, specifying the folder in `reproduce_fig2/outputs/` that you want to create plots based on. It should look similar to the one in the original paper!
