@@ -10,7 +10,7 @@ import os
 #### run model and get acc ####
 ###############################
 
-def run_model(train_file, test_file, num_classes, percent_dataset, analyze_path=None):
+def run_model(train_file, test_file, num_classes, percent_dataset, mode=None):
 
 	#initialize model
 	model = build_model(input_size, word2vec_len, num_classes)
@@ -40,8 +40,10 @@ def run_model(train_file, test_file, num_classes, percent_dataset, analyze_path=
 	y_pred_cat = one_hot_to_categorical(y_pred)
 	acc = accuracy_score(test_y_cat, y_pred_cat)
 
-	if analyze_path is not None:
-		os.mkdir(analyze_path)
+	if mode is not None:
+		basepath, dataset, aug = mode
+		analyze_path = os.path.join(basepath, dataset, str(increment), aug)
+		os.makedirs(analyze_path, exist_ok=True)
 		save_pickle(analyze_path + '/y_pred.pkl', y_pred)
 		save_pickle(analyze_path + '/test_x.pkl', test_x)
 		save_pickle(analyze_path + '/test_y.pkl', test_y)
@@ -58,10 +60,12 @@ def run_model(train_file, test_file, num_classes, percent_dataset, analyze_path=
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser()
 	parser.add_argument('--seed', type=int, default=0)
+	parser.add_argument('--runname', type=str)
 	parser.add_argument('--analyze', action='store_true')
 	args = parser.parse_args()
 
 	sd = args.seed
+	runname = args.runname
 	analyze = args.analyze
 
 	analyze_mode = True if analyze else False
@@ -74,9 +78,10 @@ if __name__ == "__main__":
 	aeda_accs = {dataset:{} for dataset in datasets}
 
 	# make folder named with timenow_results
-	nowstr = get_now_str()
-	os.mkdir(f'reproduce_fig2/outputs/{nowstr}')
+	nowstr = get_now_str() if runname is None else runname
 	basepath = f'reproduce_fig2/outputs/{nowstr}'
+	os.mkdir(basepath)
+	
 
 	writer = open(f'{basepath}/result_{sd}.csv', 'w')
 
@@ -98,15 +103,15 @@ if __name__ == "__main__":
 		for increment in increments:
 			
 			#calculate aeda accuracy
-			aeda_acc = run_model(train_aeda, test_path, num_classes, increment, analyze_path=f'{basepath}/{dataset}/{increment}/aeda' if analyze_mode else None)
+			aeda_acc = run_model(train_aeda, test_path, num_classes, increment, mode=(basepath, dataset,'aeda') if analyze_mode else None)
 			aeda_accs[dataset][increment] = aeda_acc
 
 			#calculate eda accuracy
-			eda_acc = run_model(train_eda, test_path, num_classes, increment, analyze_path=f'{basepath}/{dataset}/{increment}/eda' if analyze_mode else None)
+			eda_acc = run_model(train_eda, test_path, num_classes, increment,  mode=(basepath, dataset,'eda') if analyze_mode else None)
 			eda_accs[dataset][increment] = eda_acc
 
 			#calculate original accuracy
-			orig_acc = run_model(train_orig, test_path, num_classes, increment, analyze_path=f'{basepath}/{dataset}/{increment}/orig' if analyze_mode else None)
+			orig_acc = run_model(train_orig, test_path, num_classes, increment,  mode=(basepath, dataset,'orig') if analyze_mode else None)
 			orig_accs[dataset][increment] = orig_acc
 
 			print(dataset, increment, orig_acc, eda_acc, aeda_acc)
