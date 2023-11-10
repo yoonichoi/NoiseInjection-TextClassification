@@ -42,7 +42,7 @@ chmod +x reproduce_fig2/run_exp.sh
 reproduce_fig2/run_exp.sh
 ```
 
-`train_eval.py` takes three arguments, `seed`, `runname` and `analyze`. If you don't specify `runname`, it will automatically save experiment results under a folder name with current time. If you use `analyze` flag, it will save `test_x`, `test_y` and `pred_y` for each dataset, each increment into `.pkl` files for further analysis.
+`train_eval.py` takes three arguments, `seed`, `runname` and `analyze`. If you don't specify `runname`, it will automatically save experiment results under a folder name with current time. If you use `analyze` flag, it will save `test_x`, `test_y` and `pred_y` for each dataset and each increment into `.pkl` files for further analysis. It will be saved as `.zip` file as well. Note that these files will be large.
 ```bash
 python reproduce_fig2/train_eval.py --seed 0 --runname myrun --analyze
 ```

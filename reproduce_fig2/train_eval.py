@@ -124,7 +124,7 @@ if __name__ == "__main__":
 
 	if analyze_mode:
 		zip_dir = f'{basepath}/analyze_result'
-		shutil.make_archive(f'{zip_dir}/analyze_result.zip', 'zip', zip_dir)
+		shutil.make_archive(f'{zip_dir}/data', 'zip', zip_dir)
 		print(f"Zip file for result analysis created successfully.")
 
 	print(orig_accs, eda_accs, aeda_accs)
