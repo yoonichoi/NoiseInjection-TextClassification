@@ -1,275 +1,273 @@
-0	How did serfdom ! develop in ; and then leave Russia ?
-0	! How , did ! serfdom develop in and then . leave Russia ?
-0	How did serfdom develop in and then leave Russia . ?
 0	How did serfdom develop in and ; then leave Russia . ?
 0	How did serfdom develop in and then , leave Russia : ?
 0	How did serfdom develop in and then : leave Russia ?
 0	. How did serfdom develop in and ; then ; leave Russia ? ?
 0	How did serfdom ; develop in and then leave Russia ?
 0	; How did serfdom ? develop in and then leave ? Russia ?
+0	How did serfdom ; develop in ! and then leave Russia ?
+0	How : did serfdom develop ; in ; and then leave , Russia ?
+0	How did serfdom develop . in and then leave Russia ?
 0	How did serfdom develop in and then leave Russia ?
-1	What films featured the character , Popeye Doyle ?
-1	What films ; featured : the character . Popeye Doyle ?
-1	: What films ! featured the character . Popeye Doyle ?
 1	? What films . featured the character Popeye ; Doyle ?
 1	What films featured , the ! character Popeye Doyle ?
 1	, What ! films featured the character Popeye Doyle ?
 1	What films featured the character Popeye Doyle ; ?
 1	What films featured the , character Popeye Doyle ?
 1	What . films featured the character Popeye Doyle ; ?
+1	What . films ? featured . the character Popeye Doyle ?
+1	: What : films featured the character Popeye , Doyle ?
+1	What films featured the ? character Popeye ! Doyle ! ?
 1	What films featured the character Popeye Doyle ?
-0	How can I find ? a list of celebrities ' real names ?
-0	How can I find a list of . celebrities ' real names ?
-0	How ; can ; I ? find ! a list of celebrities ' real names ?
-0	How can I find a list of ? celebrities ! ' real names : ?
-0	! How can I find a list of . celebrities . ' ; real names ?
-0	How can I find a list of ; celebrities ' ; real names ?
+0	How can I find a : list ? of . celebrities ; ' real names ?
+0	, How ; can I find a ? list of celebrities ; ' real names ?
 0	, How can I , find a list of ; celebrities : ' real names ?
 0	How . can I find ; a list ; of celebrities ' real names ?
 0	. How can I find a list of celebrities ' real ? names ? ?
+0	How can I . find a . list ; of celebrities . ' real names ?
+0	How can I ? find . a list of : celebrities ' real names ; ?
+0	How can I . find ? a list of ? celebrities ; ' real names ?
+0	How can ! I find a , list of ! celebrities ' real names ?
 0	How can I find a list of celebrities ' real names ?
-1	What fowl grabs . the spotlight . after ; the Chinese . Year of the Monkey ?
-1	What fowl grabs the ; spotlight after the : Chinese Year of the , Monkey ? ?
-1	What fowl grabs the spotlight after the Chinese Year of ; the Monkey ?
-1	What fowl grabs . the ? spotlight after the ? Chinese ; Year of the Monkey ?
-1	What fowl ! grabs the spotlight , after the ! Chinese Year of the Monkey ?
 1	What fowl grabs the spotlight after the Chinese Year of the , Monkey ?
 1	What fowl grabs the spotlight after the Chinese ! Year of ? the Monkey ?
 1	: What ? fowl grabs the : spotlight after the ! Chinese Year of the Monkey ?
 1	What fowl grabs . the ; spotlight after : the Chinese ; Year of the Monkey ?
+1	What fowl , grabs the spotlight after the ; Chinese Year of the Monkey ?
+1	What fowl grabs the spotlight after the Chinese Year . of the Monkey ?
+1	What fowl grabs , the spotlight after the Chinese ? Year of the . Monkey ?
+1	What fowl grabs the ? spotlight after the Chinese Year of the Monkey ?
+1	What fowl grabs the spotlight , after the Chinese Year ; of the Monkey ?
 1	What fowl grabs the spotlight after the Chinese Year of the Monkey ?
-2	What is ? the full form of .com ?
-2	What ; is the full form of .com ?
-2	What is the full : form of .com ?
-2	What . is the : full form of .com . ?
-2	What ! is the full form of .com ; ?
-2	What , is the full form of .com ?
-2	What is ? the full form of .com ?
+2	What . is the full form of , .com ? ?
 2	What is the , full ! form of .com ?
 2	. What is the full form of .com ?
+2	What is ? the full form of .com ?
+2	What is the ! full ? form of .com ?
+2	! What ? is the full form of , .com ?
+2	What , is ? the full form of ; .com ?
+2	. What is the full form of ! .com ?
+2	What is the full ? form . of . .com ?
 2	What is the full form of .com ?
-3	What contemptible ! scoundrel stole the cork ; from my lunch ?
-3	What contemptible scoundrel stole ? the cork from my ; lunch ?
-3	What , contemptible ; scoundrel , stole , the cork from my lunch ?
-3	What contemptible scoundrel stole the cork ! from my . lunch ?
-3	What contemptible scoundrel stole the ; cork from my lunch ?
-3	: What contemptible scoundrel stole the cork : from , my ; lunch ?
+3	What contemptible scoundrel stole the cork from my : lunch : ?
 3	What contemptible scoundrel stole the cork from ! my lunch ?
 3	What ; contemptible ! scoundrel stole the : cork from my : lunch ?
 3	: What contemptible scoundrel ? stole the cork from my lunch ?
+3	What contemptible scoundrel , stole the cork from my lunch ?
+3	What contemptible scoundrel stole the cork . from my lunch ?
+3	What ? contemptible scoundrel : stole the . cork from my lunch , ?
+3	What contemptible scoundrel stole the cork from . my lunch ?
+3	What contemptible scoundrel stole ! the cork from my ? lunch ! ?
 3	What contemptible scoundrel stole the cork from my lunch ?
-3	What team did , baseball 's St. Louis Browns become ?
-3	What team did baseball 's St. . Louis Browns become ?
-3	What ? team did : baseball 's . St. Louis Browns become , ?
-3	What team did baseball 's St. Louis . Browns become ?
-3	What team did baseball ! 's St. Louis Browns ? become ! ?
 3	: What team did ? baseball 's St. Louis , Browns become ?
 3	What team , did , baseball 's ; St. Louis Browns become ! ?
 3	What team did baseball ? 's St. : Louis Browns become ?
 3	What team ? did baseball 's St. : Louis Browns become ?
+3	; What team did baseball 's St. Louis ! Browns become ?
+3	What team ? did , baseball ! 's St. Louis Browns ; become ?
+3	What team ! did , baseball 's St. Louis . Browns become ? ?
+3	What team . did ! baseball 's : St. Louis Browns become ?
+3	What team did baseball . 's St. Louis . Browns become ?
 3	What team did baseball 's St. Louis Browns become ?
-3	What is the : oldest profession ?
+3	: What , is the oldest profession ?
+3	What is the oldest ; profession ?
+3	What is the oldest profession ? ?
+3	What is the oldest ; profession ; ?
+3	What is the ? oldest : profession ?
+3	What is the ? oldest profession ?
 3	What is the oldest ! profession ?
-3	What ; is the oldest profession , ?
-3	What ; is ; the oldest profession ?
-3	What is the , oldest profession ? ?
-3	? What ! is the oldest profession ?
-3	What is , the oldest profession ?
-3	What is : the oldest profession ?
-3	What is : the oldest profession ?
+3	What is the oldest ? profession ?
+3	What : is the ; oldest profession ?
 3	What is the oldest profession ?
-0	: What are liver enzymes ? ?
-0	: What are liver enzymes ?
-0	What ; are liver enzymes ?
-0	What are liver ? enzymes ?
-0	What are liver : enzymes : ?
-0	What are liver ? enzymes ?
-0	What are liver enzymes ! ?
+0	What , are liver enzymes ?
+0	What are ? liver enzymes ?
+0	What ! are liver ; enzymes ?
+0	What : are liver , enzymes ?
 0	What are liver enzymes ? ?
-0	What : are liver ; enzymes ?
+0	; What are liver enzymes ?
+0	What , are liver enzymes . ?
+0	What are , liver enzymes ?
+0	? What are liver enzymes ?
 0	What are liver enzymes ?
-3	Name the , scar-faced bounty hunter of The Old West .
-3	Name the scar-faced bounty ! hunter of The ? Old West .
-3	Name the scar-faced bounty , hunter of The ? Old West .
-3	Name the scar-faced ; bounty hunter of The Old ? West .
-3	Name ? the scar-faced bounty hunter of The Old ; West .
-3	Name . the ! scar-faced bounty hunter of The Old West .
-3	Name ? the scar-faced ; bounty hunter of The Old West .
 3	: Name the scar-faced ? bounty hunter . of The Old ; West .
 3	; Name ? the scar-faced bounty hunter of ? The Old West .
+3	? Name the scar-faced bounty hunter , of The Old West ; .
+3	Name the scar-faced ! bounty hunter of The ? Old ; West .
+3	; Name the scar-faced bounty hunter of The Old West . .
+3	Name ? the scar-faced bounty ? hunter of The Old : West .
+3	Name . the scar-faced bounty hunter , of The Old West .
+3	Name ; the scar-faced ? bounty hunter of The , Old West .
+3	Name the scar-faced bounty hunter of The ! Old West .
 3	Name the scar-faced bounty hunter of The Old West .
-5	When was . Ozzy Osbourne born ? ?
-5	When was Ozzy Osbourne ; born ?
-5	When ? was Ozzy ! Osbourne born ?
-5	When ; was Ozzy Osbourne : born ?
-5	When was Ozzy Osbourne . born ?
-5	When was ; Ozzy Osbourne . born ?
-5	When . was Ozzy ! Osbourne born ?
-5	When ! was Ozzy Osbourne born ?
-5	When was Ozzy , Osbourne born ?
+5	When was ! Ozzy Osbourne ? born ?
+5	When was Ozzy Osbourne . born ? ?
+5	When was ! Ozzy Osbourne ? born ?
+5	; When : was Ozzy Osbourne born ?
+5	When was Ozzy Osbourne ! born ?
+5	When was Ozzy Osbourne : born ?
+5	When . was Ozzy ; Osbourne born ?
+5	When ? was . Ozzy Osbourne born ?
+5	When ? was Ozzy Osbourne born ?
 5	When was Ozzy Osbourne born ?
-0	Why . do heavier objects ? travel downhill ! faster ?
-0	Why do ? heavier objects travel ! downhill faster ?
-0	? Why do heavier ! objects ; travel downhill faster ?
-0	Why do heavier , objects travel downhill faster . ?
-0	Why , do ; heavier objects : travel downhill faster ?
-0	Why . do heavier objects travel downhill faster ; ?
-0	Why ? do . heavier objects travel downhill . faster ?
-0	Why do heavier objects travel downhill ? faster ?
-0	Why do : heavier objects ! travel downhill faster ?
+0	Why do ! heavier objects travel : downhill faster ?
+0	Why do . heavier objects travel ? downhill faster ?
+0	Why do heavier objects ; travel downhill faster ?
+0	Why do heavier ? objects travel downhill faster ?
+0	Why do heavier objects travel downhill , faster ?
+0	: Why do heavier objects travel downhill faster ?
+0	; Why ? do heavier ! objects travel downhill faster ?
+0	, Why ! do heavier objects travel , downhill faster ?
+0	Why do . heavier objects , travel downhill faster ?
 0	Why do heavier objects travel downhill faster ?
-3	? Who was The Pride , of the Yankees ?
-3	, Who was The Pride ? of the Yankees , ?
-3	Who was , The Pride of the . Yankees ?
-3	; Who ? was The ! Pride of the Yankees ?
-3	, Who ! was The Pride of , the Yankees ?
-3	Who was . The Pride , of the Yankees ?
 3	Who was ? The ? Pride of . the Yankees ?
 3	Who was , The . Pride of the , Yankees ?
 3	Who was The ; Pride of ? the Yankees ?
+3	; Who was The Pride of the Yankees ?
+3	. Who was The Pride of the Yankees ?
+3	Who was The ! Pride of the . Yankees ?
+3	Who was The Pride of the ! Yankees ?
+3	Who was The ! Pride ? of the . Yankees ?
+3	Who was The Pride of ? the . Yankees ; ?
 3	Who was The Pride of the Yankees ?
-3	; Who killed Gandhi ?
-3	. Who killed Gandhi ?
-3	Who . killed Gandhi , ?
-3	Who killed , Gandhi ; ?
-3	; Who killed Gandhi : ?
-3	; Who killed Gandhi : ?
 3	: Who : killed Gandhi ?
 3	. Who killed Gandhi ?
 3	! Who ? killed Gandhi ?
+3	. Who killed Gandhi ; ?
+3	; Who killed Gandhi , ?
+3	, Who killed ; Gandhi ?
+3	Who killed , Gandhi ?
+3	Who killed ? Gandhi , ?
+3	Who killed Gandhi ! ?
 3	Who killed Gandhi ?
-1	What ; is ! considered the costliest disaster the insurance industry ? has ever faced , ?
-1	What is considered the ; costliest disaster the insurance industry has ! ever faced ?
-1	What is ; considered the costliest disaster the insurance industry has ever faced ?
-1	What is considered the , costliest disaster the insurance industry has ever faced ? ?
-1	What is , considered the costliest disaster ? the insurance ! industry has ever faced ?
 1	, What is considered the costliest disaster the insurance industry has ever faced ?
 1	What is considered . the costliest disaster the insurance industry has ever faced ?
 1	! What is considered the costliest disaster the insurance industry ! has ; ever , faced ?
 1	What ; is considered the costliest disaster the insurance industry has . ever faced ?
+1	What is considered the costliest disaster the insurance industry ; has ever faced ?
+1	What is considered : the , costliest disaster the insurance industry : has ever faced ?
+1	What is considered the costliest disaster the ? insurance industry has . ever faced ?
+1	! What is considered the costliest : disaster the insurance industry has ever faced . ?
+1	, What is considered the costliest disaster the insurance industry has ever faced ?
 1	What is considered the costliest disaster the insurance industry has ever faced ?
-4	What sprawling U.S. state boasts ! the most airports ?
-4	What sprawling : U.S. state boasts the most airports ?
-4	What sprawling U.S. state boasts the most ? airports ?
-4	What sprawling U.S. state boasts . the most airports ?
-4	. What sprawling U.S. state . boasts the most airports ?
-4	What sprawling U.S. state boasts the most airports ! ?
-4	What sprawling U.S. state ! boasts the most : airports ?
-4	What sprawling U.S. state boasts the ? most : airports ! ?
-4	What sprawling U.S. state boasts ; the . most airports ?
+4	What sprawling U.S. state boasts ! the ! most airports : ?
+4	What sprawling U.S. state boasts : the most ? airports ? ?
+4	What sprawling U.S. state boasts : the most ? airports ?
+4	What . sprawling U.S. state boasts the most airports , ?
+4	What sprawling U.S. ! state ; boasts : the most airports ?
+4	What sprawling U.S. state boasts : the most ? airports ! ?
+4	What sprawling U.S. : state boasts the . most airports ?
+4	What sprawling U.S. ; state boasts ? the . most airports ?
+4	What sprawling U.S. . state boasts ; the most airports ?
 4	What sprawling U.S. state boasts the most airports ?
-0	What did the : only repealed amendment to the U.S. Constitution deal with ?
-0	What did the only ! repealed amendment ; to the : U.S. Constitution deal with ?
-0	What did the only repealed amendment to ! the U.S. Constitution deal ? with , ?
-0	What ; did the only repealed amendment , to the U.S. Constitution : deal ; with ?
-0	What . did the ; only repealed ? amendment to the U.S. Constitution deal ! with ?
-0	What . did the only repealed amendment to the U.S. Constitution deal with ?
-0	What did the ? only repealed . amendment to the U.S. . Constitution deal with ?
-0	What did the . only repealed amendment to the U.S. , Constitution ? deal ! with ?
-0	; What did the only repealed amendment to the U.S. Constitution deal with ?
+0	; What ; did the only ! repealed amendment to the U.S. Constitution ; deal with ?
+0	. What did the ? only repealed amendment to , the U.S. Constitution deal with ?
+0	What did the ? only repealed amendment to the U.S. Constitution deal with ?
+0	; What did the only repealed amendment to the U.S. Constitution deal : with , ?
+0	: What did the only repealed ! amendment to the U.S. Constitution deal with ?
+0	What did the only ? repealed amendment to the U.S. Constitution deal ! with ?
+0	What : did the only repealed amendment to the U.S. ? Constitution ? deal with ?
+0	What did the ? only repealed amendment to the U.S. Constitution deal , with ?
+0	What did the only ? repealed . amendment to ; the U.S. Constitution , deal with ?
 0	What did the only repealed amendment to the U.S. Constitution deal with ?
-5	! How many : Jews were executed in concentration camps during WWII ?
-5	How many Jews ! were ! executed in concentration : camps during WWII ?
-5	How many Jews were executed in concentration ? camps during WWII ?
-5	How many Jews , were executed in concentration ? camps during WWII ?
-5	How many Jews were executed ? in concentration . camps during ; WWII ?
-5	: How ; many Jews were executed in concentration camps during WWII ?
+5	: How many Jews were executed in concentration camps during WWII ?
 5	How many Jews were executed in concentration camps : during WWII ?
 5	? How many Jews were executed in concentration ? camps during WWII ?
 5	How ! many Jews were executed in concentration camps during ? WWII ? ?
+5	How many Jews were executed in , concentration camps during WWII ! ?
+5	How many Jews were ; executed in concentration camps during WWII ?
+5	How many Jews were executed in concentration camps ! during WWII ?
+5	How . many Jews were executed in concentration camps during , WWII ?
+5	How many Jews , were ? executed in concentration . camps during WWII ?
 5	How many Jews were executed in concentration camps during WWII ?
-0	What is `` Nine Inch Nails , '' ?
-0	; What is . `` Nine Inch Nails '' ?
-0	What ; is `` Nine . Inch Nails . '' ?
-0	What is `` Nine , Inch Nails '' ?
-0	What ? is `` Nine Inch Nails '' . ?
 0	. What is `` Nine Inch Nails '' ! ?
 0	? What is `` Nine Inch Nails '' ?
 0	What is `` Nine Inch Nails '' ! ?
 0	What is `` Nine Inch , Nails '' ?
+0	What is ? `` . Nine Inch Nails '' ?
+0	. What is `` Nine , Inch Nails '' ?
+0	What is `` ! Nine Inch Nails '' ?
+0	What is `` , Nine Inch Nails '' ; ?
+0	What is `` Nine Inch Nails : '' ?
 0	What is `` Nine Inch Nails '' ?
-0	What ? is . an annotated bibliography ?
-0	. What is , an annotated bibliography ?
-0	What ! is an annotated bibliography ?
-0	What is an , annotated bibliography ; ?
-0	What is an : annotated bibliography ?
 0	. What is an annotated : bibliography ?
 0	What is an annotated ! bibliography ?
 0	What is ! an annotated bibliography : ?
 0	What is an ! annotated . bibliography ?
+0	What ! is an annotated bibliography ?
+0	What is ! an annotated bibliography ?
+0	What ; is an annotated bibliography ?
+0	What , is an annotated ? bibliography ?
+0	What is . an annotated , bibliography ?
 0	What is an annotated bibliography ?
-5	What is the ! date of Boxing Day ?
-5	What is : the : date of Boxing . Day ?
-5	What is the date of Boxing Day ; ?
-5	What is the ? date of Boxing Day ?
-5	, What is the date of : Boxing Day ?
 5	What is the date of ? Boxing : Day ! ?
 5	What is , the ; date of Boxing , Day ?
 5	? What : is the date . of Boxing Day ?
 5	What is the date . of Boxing ; Day ?
+5	? What is the date . of : Boxing Day ?
+5	What is the ! date of Boxing Day ?
+5	What ; is the date of Boxing Day ?
+5	! What is ! the date ? of Boxing Day ?
+5	What is the date ? of Boxing ! Day ? ?
 5	What is the date of Boxing Day ?
-1	? What articles of clothing . are : tokens in Monopoly ?
-1	What articles of ! clothing are tokens in Monopoly ?
-1	What articles of clothing are tokens in Monopoly : ?
-1	What articles of clothing are tokens in Monopoly : ?
-1	What ! articles of clothing ! are tokens in Monopoly ?
-1	What articles of clothing are tokens in ; Monopoly ? ?
-1	What articles of clothing are tokens in ! Monopoly , ?
-1	; What articles of clothing are tokens , in Monopoly ?
-1	What articles of clothing are tokens in , Monopoly ?
+1	What articles of ? clothing : are tokens in Monopoly ?
+1	What articles of clothing are tokens ; in Monopoly ?
+1	What articles of : clothing are tokens in Monopoly ?
+1	What articles . of ! clothing are tokens in . Monopoly ?
+1	What articles ! of clothing are tokens in Monopoly ?
+1	? What articles of clothing are tokens . in Monopoly ; ?
+1	What articles of : clothing are ? tokens in : Monopoly ?
+1	What articles ; of clothing are tokens in Monopoly ; ?
+1	. What articles of clothing are ? tokens in Monopoly ; ?
 1	What articles of clothing are tokens in Monopoly ?
-3	. Name 11 , famous martyrs .
-3	Name 11 : famous martyrs .
-3	. Name 11 famous ; martyrs .
-3	Name 11 famous : martyrs ? .
-3	Name ; 11 famous martyrs ; .
-3	: Name 11 famous martyrs . .
-3	Name , 11 famous martyrs ? .
+3	Name ? 11 famous martyrs .
 3	Name ! 11 famous martyrs .
 3	. Name 11 famous martyrs .
+3	Name . 11 famous martyrs . .
+3	Name , 11 famous martyrs . .
+3	: Name ? 11 famous martyrs .
+3	Name 11 famous . martyrs .
+3	Name 11 famous ; martyrs .
+3	Name : 11 famous martyrs ? .
 3	Name 11 famous martyrs .
-0	What . 's the Olympic motto . ?
-0	What , 's the Olympic . motto ?
-0	: What ? 's the Olympic motto ?
-0	What 's the . Olympic motto ?
-0	What 's the ; Olympic motto ?
-0	What : 's the Olympic motto ? ?
 0	What 's the Olympic motto , ?
 0	What 's , the Olympic motto ?
 0	What ! 's the ; Olympic motto ?
+0	What 's the . Olympic motto ?
+0	What 's the Olympic motto . ?
+0	What 's the : Olympic motto ?
+0	What 's the Olympic . motto . ?
+0	What 's the Olympic motto ! ?
+0	What 's the Olympic : motto ! ?
 0	What 's the Olympic motto ?
-0	; What is the origin of the ; name ` Scarlett ' ?
-0	. What is the origin of the name ` Scarlett ' ?
-0	What . is the origin . of the name ` : Scarlett ' ! ?
-0	What is ; the origin . of the name ` : Scarlett ; ' ?
+0	What : is the origin of the name ` ; Scarlett ' ?
 0	? What is the origin ? of the name ` , Scarlett ? ' ?
 0	What is the . origin ! of the : name ` Scarlett ' ?
 0	What is the origin . of the name ` Scarlett ' ?
 0	What is ? the origin of the name ? ` : Scarlett ' ?
 0	What is the origin of the name ` Scarlett : ' ?
+0	: What is the origin of the name ` Scarlett ' ?
+0	What is the origin : of . the name ` , Scarlett ! ' ?
+0	What is the origin of the ! name ` Scarlett ' ?
 0	What is the origin of the name ` Scarlett ' ?
-1	: What 's the second-most-used vowel in English ?
-1	What 's ! the second-most-used ! vowel in : English ?
-1	What 's the ! second-most-used vowel in English ?
-1	What 's the second-most-used vowel in ! English ?
 1	What 's the : second-most-used vowel : in : English ?
 1	What 's the second-most-used vowel ? in English ?
 1	What 's the ! second-most-used vowel in English ?
 1	What 's the second-most-used ! vowel ; in English ?
 1	What 's ; the second-most-used vowel ? in English ?
+1	What 's : the second-most-used , vowel in ? English ?
+1	: What 's the second-most-used vowel in ! English ?
+1	What 's the , second-most-used vowel ; in English , ?
+1	What ? 's the second-most-used vowel : in ? English ?
 1	What 's the second-most-used vowel in English ?
-3	Who was : the inventor , of silly ? putty ?
-3	: Who was the inventor of silly ! putty ?
-3	Who was the , inventor of ; silly putty , ?
-3	Who ? was the inventor of : silly ? putty ?
 3	, Who ? was the inventor of silly putty ?
 3	Who was the . inventor , of silly ; putty ?
 3	: Who was the . inventor of silly putty ; ?
 3	Who , was the inventor of silly putty ?
 3	Who was the inventor of , silly putty ?
+3	? Who . was the inventor of silly putty ?
+3	Who was the inventor ; of silly putty : ?
+3	Who was the inventor of silly : putty ?
+3	? Who was the inventor of silly putty ?
 3	Who was the inventor of silly putty ?
-4	! What is ? the highest waterfall in the ; United States ; ?
-4	What . is the highest waterfall in ? the United States ?
 4	; What is the highest waterfall in the United States : ?
 4	? What is , the highest waterfall . in the United ! States ?
 4	What is the highest waterfall in the , United States ?
@@ -277,639 +275,640 @@
 4	What is ; the highest , waterfall in the . United ; States ?
 4	What is the highest waterfall in the : United . States ; ?
 4	What is the ! highest waterfall , in the United ! States ?
+4	What ? is the ? highest waterfall in the United States , ?
+4	What is the highest ! waterfall in the United States , ?
 4	What is the highest waterfall in the United States ?
-1	, Name a golf ? course in Myrtle Beach .
-1	Name a golf , course in Myrtle ; Beach .
-1	Name : a , golf course : in Myrtle Beach .
-1	Name ; a golf course in Myrtle Beach .
+1	Name a , golf course in . Myrtle ; Beach .
 1	Name a golf ; course in Myrtle : Beach ! .
 1	Name a golf . course . in Myrtle Beach , .
 1	Name a golf course ! in : Myrtle Beach . .
 1	Name a golf course in ; Myrtle ! Beach .
 1	Name a : golf course in Myrtle Beach . .
+1	Name a golf ! course in ! Myrtle ? Beach .
+1	Name a ? golf course in Myrtle Beach .
+1	; Name a golf ! course in Myrtle Beach .
 1	Name a golf course in Myrtle Beach .
-4	Which two ! states ? enclose Chesapeake Bay , ?
-4	Which two states enclose Chesapeake Bay ? ?
-4	; Which two states ! enclose Chesapeake Bay ?
 4	Which two ! states . enclose Chesapeake Bay : ?
 4	Which : two states enclose Chesapeake ? Bay ?
 4	Which two states enclose Chesapeake Bay : ?
 4	Which , two states ; enclose Chesapeake Bay ?
 4	Which two states enclose Chesapeake ! Bay , ?
 4	Which two states enclose Chesapeake Bay ; ?
+4	Which two states enclose Chesapeake ? Bay ?
+4	Which two states : enclose Chesapeake Bay ?
+4	Which : two ? states ! enclose Chesapeake Bay ?
 4	Which two states enclose Chesapeake Bay ?
-2	What does the abbreviation AIDS stand for , ?
-2	What does ! the : abbreviation AIDS stand for ?
-2	What does ; the abbreviation AIDS . stand for ?
-2	What , does the abbreviation ; AIDS stand for ?
-2	What does the , abbreviation AIDS . stand for ?
-2	What . does the abbreviation AIDS stand for ?
-2	. What does the abbreviation AIDS . stand . for ?
-2	, What does the abbreviation AIDS stand for ?
-2	What . does ? the . abbreviation AIDS stand for ?
+2	What . does ; the abbreviation AIDS stand for ?
+2	What does the abbreviation AIDS stand , for ?
+2	. What . does ; the abbreviation AIDS stand for ?
+2	. What does the abbreviation AIDS stand . for ?
+2	What does the . abbreviation AIDS stand for ?
+2	What does , the abbreviation AIDS stand for ?
+2	. What does the : abbreviation AIDS stand for ?
+2	What does the abbreviation AIDS stand ; for . ?
+2	What does the abbreviation . AIDS stand for ?
 2	What does the abbreviation AIDS stand for ?
-1	What does a . spermologer , collect ?
-1	; What does a spermologer , collect ?
-1	What does a spermologer : collect ?
+1	; What does a spermologer collect ?
 1	; What does a spermologer collect ?
 1	; What does . a spermologer collect ?
 1	What does a ? spermologer collect ?
 1	What ; does a ; spermologer collect ?
 1	What , does : a spermologer collect ?
 1	What does a spermologer collect ; ?
+1	. What does a spermologer : collect ?
+1	What does : a spermologer . collect ?
 1	What does a spermologer collect ?
-5	: How many points make up a perfect fivepin bowling ! score ! ?
-5	How many points make up a perfect : fivepin bowling score ?
-5	! How many points ; make up a ! perfect fivepin bowling score ?
+5	How many points . make ! up a ; perfect fivepin bowling score ! ?
 5	How many points make up a perfect : fivepin bowling ; score ?
 5	? How many points make ? up a , perfect fivepin bowling score ?
 5	; How many points . make up a perfect ? fivepin bowling score ?
 5	How ? many points make up a perfect fivepin , bowling score ; ?
 5	; How many points make : up . a perfect fivepin bowling score ?
 5	: How many points make . up a perfect fivepin ! bowling score ! ?
+5	How . many points make ? up a perfect fivepin bowling score ?
+5	How ! many points make up a perfect fivepin bowling score ?
 5	How many points make up a perfect fivepin bowling score ?
-3	Which ! company that manufactures video-game hardware sells the `` super system . '' ?
-3	! Which ! company that manufactures video-game hardware sells the `` super system ! '' , ?
-3	. Which company , that manufactures video-game hardware sells ? the `` super system '' ?
+3	Which company that ? manufactures , video-game hardware sells the `` super system '' . ?
+3	Which company ? that manufactures video-game hardware sells the `` super system '' ?
 3	Which company that manufactures video-game : hardware sells the `` super system '' ?
 3	? Which , company that manufactures video-game hardware . sells . the `` super system '' ?
 3	! Which company that manufactures video-game hardware sells the `` super system . '' ?
 3	: Which company that manufactures video-game , hardware sells the `` super system '' ?
 3	Which company : that manufactures video-game hardware : sells the `` . super system ! '' ?
 3	! Which , company that manufactures video-game hardware sells the `` super system '' ?
+3	Which company that manufactures video-game hardware sells the `` super system '' ! ?
 3	Which company that manufactures video-game hardware sells the `` super system '' ?
-5	How many Community Chest cards , are there in Monopoly ?
-5	How many Community Chest ? cards are there in Monopoly ?
-5	How many Community Chest cards are there in , Monopoly ?
-5	. How many Community Chest cards are there in Monopoly ?
-5	; How many Community ? Chest cards are there in Monopoly ?
+5	? How many Community Chest . cards are there in Monopoly ?
+5	. How many Community Chest cards are there in Monopoly , ?
+5	? How many Community Chest cards are there in ; Monopoly ?
 5	! How many Community ; Chest cards are there in Monopoly ?
 5	How many Community ; Chest cards are there in Monopoly ?
 5	How many Community . Chest cards . are there in Monopoly ?
 5	How many ? Community Chest cards . are there in Monopoly ?
+5	: How many Community Chest cards are there in Monopoly ; ?
+5	! How many Community Chest cards . are ? there ? in Monopoly ?
 5	How many Community Chest cards are there in Monopoly ?
-0	What do Mormons believe : ?
-0	What do Mormons believe ? ?
-0	What do Mormons . believe ! ?
-0	What do Mormons ? believe ?
 0	; What do Mormons believe , ?
 0	What ? do Mormons believe ?
 0	, What do Mormons believe ! ?
 0	What , do Mormons believe ?
 0	What do Mormons believe . ?
+0	What ? do ; Mormons believe ?
+0	What ; do Mormons ; believe ?
+0	, What do . Mormons believe ?
+0	, What do : Mormons believe ?
 0	What do Mormons believe ?
-5	When did : the neanderthal ; man live ?
-5	When did the ; neanderthal man live ?
-5	When ? did the neanderthal ; man live ?
-5	, When did . the ; neanderthal man live ?
-5	, When did : the neanderthal man live ?
 5	When did the neanderthal man ; live ?
 5	, When ! did the neanderthal man live , ?
 5	When , did . the neanderthal man ; live ?
 5	; When did the neanderthal man ! live ?
+5	When did ? the neanderthal , man live ?
+5	; When . did the neanderthal . man live ?
+5	When did the . neanderthal man ? live ?
+5	When did the neanderthal man live ! ?
+5	When ; did ! the neanderthal . man live ?
 5	When did the neanderthal man live ?
-1	In what religion was ? Isis the nature goddess , ?
-1	; In what religion . was . Isis the nature goddess ?
-1	In ? what religion was Isis the , nature goddess ?
-1	In what religion ; was Isis the nature goddess ! ?
-1	! In what religion , was Isis ; the nature goddess ?
-1	In what religion was Isis the . nature , goddess ?
-1	In what ? religion was Isis , the nature goddess ?
-1	In what religion was Isis the nature goddess ! ?
-1	In what : religion was Isis the nature goddess ?
+1	In what ; religion was Isis ! the nature goddess ?
+1	In , what religion was Isis the nature ! goddess ?
+1	In what , religion was Isis the . nature goddess ?
+1	In : what ? religion was Isis . the nature goddess ?
+1	In what religion was Isis the ? nature goddess ; ?
+1	In what religion was ! Isis the ! nature goddess ?
+1	In what religion was ! Isis the nature goddess ?
+1	, In ; what ; religion was Isis the nature goddess ?
+1	In what religion was Isis ; the nature goddess ?
 1	In what religion was Isis the nature goddess ?
-4	Where ? do the adventures ; of `` ! The Swiss Family Robinson '' : take place ?
-4	Where do the adventures of ! `` . The Swiss ! Family Robinson '' take place ?
-4	, Where do , the adventures of `` The Swiss Family ; Robinson '' take place ?
-4	Where do the ? adventures of , `` The Swiss ; Family Robinson , '' take , place ?
-4	; Where do the adventures ? of `` , The Swiss ? Family Robinson '' take place ?
-4	Where do the adventures , of ! `` The ! Swiss ! Family Robinson '' take , place ?
-4	Where do the adventures of `` The Swiss Family Robinson '' ? take place ?
+4	Where do ? the . adventures of `` The ; Swiss Family ! Robinson '' take ? place ?
+4	Where do the ; adventures of ? `` ! The , Swiss Family ! Robinson '' take place ?
+4	Where do . the adventures of : `` The Swiss Family Robinson '' take ? place ?
 4	: Where do ; the adventures ; of `` The . Swiss : Family Robinson '' take place ?
 4	Where do the adventures of , `` The Swiss ? Family Robinson . '' take place ?
+4	! Where do : the : adventures of `` The ? Swiss Family Robinson '' take place ?
+4	Where do ? the ! adventures of `` : The ! Swiss Family Robinson '' take place ?
+4	Where do the ? adventures of `` The Swiss Family Robinson '' take place ?
+4	Where do the adventures . of . `` The Swiss : Family Robinson ; '' ! take place ?
 4	Where do the adventures of `` The Swiss Family Robinson '' take place ?
-1	! What relative : of : the racoon is sometimes ? known as the cat-bear ?
-1	What relative ? of ! the racoon is : sometimes ! known as the cat-bear ?
-1	What relative of ? the racoon is sometimes known as the cat-bear ?
-1	What relative of the . racoon is sometimes known . as the : cat-bear ?
-1	What relative ; of : the racoon ! is sometimes known as the cat-bear ?
+1	What relative ; of : the racoon is sometimes known as the ! cat-bear ?
 1	What relative , of the racoon ? is sometimes known . as the cat-bear ?
 1	What ? relative of the racoon is sometimes known as the cat-bear ?
 1	What relative ? of the racoon ! is , sometimes known as the cat-bear ?
 1	What : relative of the racoon is . sometimes known ! as ! the cat-bear ?
+1	What . relative of the ! racoon is sometimes ; known as the cat-bear : ?
+1	What , relative of the : racoon is sometimes . known as the cat-bear . ?
+1	What . relative ? of the racoon is sometimes known as the . cat-bear ?
+1	What relative of the racoon is sometimes , known , as the , cat-bear ?
 1	What relative of the racoon is sometimes known as the cat-bear ?
-0	How . can I register ! my website in ; Yahoo for free : ?
-0	How , can I register : my website in . Yahoo for free . ?
-0	How . can ? I register my website in Yahoo for . free ?
-0	How can I , register my website in , Yahoo , for free ?
-0	How can I . register my website in , Yahoo for free ?
-0	How can I register . my , website : in Yahoo : for free ?
-0	How can I register ! my . website in Yahoo for ! free : ?
-0	: How can I register my website , in Yahoo for . free : ?
-0	How can I ? register my website ? in Yahoo for free . ?
+0	How can ? I . register my website in Yahoo for free ?
+0	How can I register my website ! in Yahoo for free ; ?
+0	! How can I ! register my website in ! Yahoo for free ?
+0	How : can I register ? my : website in Yahoo for free ?
+0	: How can I register my website in Yahoo for free ?
+0	? How can I , register my ? website in Yahoo for free ? ?
+0	; How : can I register my website in Yahoo for ! free ; ?
+0	How can I register ; my website in Yahoo for free ?
+0	How can I ; register ? my ! website in Yahoo , for free ?
 0	How can I register my website in Yahoo for free ?
-1	What was cash-conscious Colonel Edwin L. Drake the first to drill : ?
-1	What ; was cash-conscious Colonel Edwin L. Drake the first to drill ?
-1	; What was cash-conscious Colonel ? Edwin L. Drake the first , to drill ?
-1	What was cash-conscious Colonel Edwin ? L. Drake the ! first to drill , ?
 1	What was ; cash-conscious Colonel Edwin L. Drake the ; first ! to , drill ?
 1	What was cash-conscious Colonel Edwin ; L. Drake the , first , to drill ?
 1	? What was cash-conscious ; Colonel ? Edwin L. Drake the first . to drill ?
 1	! What ! was cash-conscious Colonel ! Edwin L. Drake the first to , drill ?
 1	: What was cash-conscious ; Colonel Edwin L. Drake ; the first to ? drill ?
+1	, What was cash-conscious Colonel Edwin L. Drake the ? first to drill , ?
+1	What was cash-conscious Colonel Edwin L. Drake the ; first . to drill ?
+1	What was cash-conscious Colonel Edwin L. : Drake the ? first , to : drill ?
+1	What was cash-conscious : Colonel ? Edwin L. Drake , the first to . drill ?
 1	What was cash-conscious Colonel Edwin L. Drake the first to drill ?
-5	; How many people in the world speak French , ?
-5	How many people ; in the world speak French ; ?
-5	; How many people in ; the world ? speak French ?
-5	How many people ? in the ? world speak : French ?
-5	How many people , in the world . speak French ?
 5	How many people : in ! the world speak : French ?
 5	How many people in the world speak , French ?
 5	How : many people in the world speak French ?
 5	How many people in , the world : speak French ?
+5	How ? many people , in the world ? speak French ?
+5	How many people in the world , speak French ?
+5	How many : people in the , world ; speak French ?
+5	How many people in the world speak : French ? ?
+5	; How ? many people in the : world speak French ?
 5	How many people in the world speak French ?
-5	How many ? inches . over six feet is ? the Venus de Milo , ?
-5	How many ? inches over six feet is the Venus ? de Milo : ?
-5	, How many inches over six ; feet ? is the Venus de Milo : ?
 5	How many inches over six feet is the Venus de Milo ; ?
 5	How many inches over six feet ; is the Venus de Milo ?
 5	How many : inches over six feet is the Venus de Milo ?
 5	How many inches over six feet ? is the Venus de Milo ?
 5	How many inches over six feet is the Venus de . Milo ?
 5	How : many inches over : six ? feet is the Venus de Milo ?
+5	How many inches over ; six feet is ? the : Venus de Milo ?
+5	How many inches ; over six feet is the Venus de Milo ! ?
+5	How many . inches over : six feet is the . Venus de ! Milo ?
 5	How many inches over six feet is the Venus de Milo ?
-0	How do they find ; or choose witnesses ? to : an execution ?
-0	How do they ! find or choose witnesses to ? an execution ?
-0	How do they find ; or choose witnesses to an execution . ?
-0	How do they find or ? choose witnesses to an execution ?
-0	How do they find or . choose witnesses to an execution ? ?
-0	How do they . find or ? choose witnesses ? to an execution , ?
-0	How do they find ! or choose witnesses ? to an execution ?
-0	: How do they find . or choose : witnesses to ; an execution ?
+0	? How do they : find or : choose witnesses to an ? execution ?
+0	How do they . find or choose witnesses ? to ? an execution ?
+0	How do ? they find ! or choose witnesses to an execution ?
+0	How do they find or choose ! witnesses . to . an : execution ?
+0	How do they find or choose witnesses to an execution ; ?
 0	; How do they find or ? choose witnesses ? to an ? execution ?
+0	; How do : they find . or choose : witnesses to an execution ?
+0	How . do ? they find or choose ; witnesses to ? an execution ?
+0	How do ? they find or . choose : witnesses to , an execution ?
 0	How do they find or choose witnesses to an execution ?
-3	What 1920s . cowboy star ; rode Tony : the . Wonder Horse ?
-3	What : 1920s cowboy star rode Tony , the Wonder . Horse ? ?
-3	What 1920s ; cowboy star ? rode ? Tony the . Wonder Horse ?
-3	What 1920s cowboy star rode Tony : the ; Wonder Horse ?
-3	What 1920s ! cowboy star rode Tony the ? Wonder Horse ?
-3	? What 1920s cowboy star rode ; Tony the Wonder Horse ?
-3	What 1920s cowboy star rode ? Tony the Wonder Horse ?
+3	What 1920s cowboy , star rode Tony ! the ? Wonder Horse , ?
+3	! What 1920s cowboy star rode Tony the ? Wonder Horse ; ?
 3	What , 1920s cowboy star rode Tony the Wonder Horse ?
 3	! What ? 1920s cowboy star . rode Tony the Wonder Horse ?
+3	What 1920s cowboy star rode Tony the Wonder Horse . ?
+3	What 1920s cowboy star rode . Tony : the Wonder Horse ?
+3	What ; 1920s cowboy star rode . Tony : the Wonder Horse ?
+3	What 1920s cowboy star : rode Tony the Wonder Horse ?
+3	What , 1920s cowboy ? star ? rode ? Tony the Wonder Horse ?
 3	What 1920s cowboy star rode Tony the Wonder Horse ?
-1	What cocktail inspired John Doxat to write the book Stirred-Not Shaken ; ?
-1	What cocktail ! inspired John Doxat to write the book Stirred-Not Shaken ?
-1	What ! cocktail inspired John ? Doxat to write the book Stirred-Not ; Shaken . ?
-1	What cocktail inspired John : Doxat to write the book Stirred-Not Shaken ?
-1	What , cocktail inspired ? John Doxat ? to write the ? book Stirred-Not Shaken ?
 1	What . cocktail inspired ; John Doxat to ; write the book Stirred-Not Shaken ?
 1	What ? cocktail , inspired John Doxat to write the book Stirred-Not Shaken . ?
 1	What cocktail inspired John Doxat to write . the , book Stirred-Not Shaken ?
 1	What cocktail ? inspired John ! Doxat to write the ? book : Stirred-Not Shaken ?
+1	What cocktail inspired ! John , Doxat to , write ; the book Stirred-Not Shaken ?
+1	What cocktail ; inspired , John Doxat . to write the , book Stirred-Not Shaken ?
+1	What ? cocktail inspired John Doxat to write the book ; Stirred-Not Shaken ?
+1	What cocktail inspired John Doxat to write ; the ? book Stirred-Not , Shaken : ?
+1	What cocktail inspired John Doxat to write ! the book : Stirred-Not ; Shaken ?
 1	What cocktail inspired John Doxat to write the book Stirred-Not Shaken ?
-3	What ISPs ? exist , in the Caribbean ?
-3	What ; ISPs exist in the Caribbean : ?
-3	What , ISPs exist in : the Caribbean ?
-3	What . ISPs , exist in , the Caribbean ?
-3	; What ISPs exist ? in ; the Caribbean ?
-3	What ISPs exist ; in ? the Caribbean , ?
-3	What ISPs ? exist in ; the Caribbean : ?
-3	What ISPs . exist in ! the ? Caribbean ?
+3	What ISPs ? exist in the Caribbean ?
 3	What , ISPs exist in the Caribbean : ?
+3	What ISPs exist in . the Caribbean ! ?
+3	What ISPs ! exist in ? the Caribbean ? ?
+3	What . ISPs exist in the Caribbean ?
+3	What ISPs exist in the Caribbean ! ?
+3	What ISPs exist ! in the Caribbean ?
+3	What , ISPs ; exist in the Caribbean ?
+3	, What ? ISPs exist in the Caribbean ?
 3	What ISPs exist in the Caribbean ?
-0	How ; do you ask ! a ? total stranger out ? on a date ?
-0	How do you . ask a total stranger out on a date ?
-0	How do you ask , a total stranger out on a date ?
-0	How do , you ask ; a total ? stranger out on a date , ?
-0	How do you ? ask a total stranger out on a date ?
 0	How , do you ask a total stranger out on ; a date ?
 0	How do you ask a : total stranger out on a date ?
 0	How do you ask a total ; stranger out on a date ?
 0	. How : do , you ? ask a total stranger out on a date ?
+0	How do ; you ask a total stranger out ! on a date ?
+0	How do . you ask a total stranger out ? on a date ?
+0	How do you ; ask : a total stranger out on a date , ?
+0	How ! do you ask a , total stranger out on a date ?
+0	How do you ? ask a , total stranger out on a date ?
 0	How do you ask a total stranger out on a date ?
-1	What weapon ; is the mythological character Apollo most ! proficient with ?
-1	What weapon . is the mythological character Apollo most ? proficient with ?
-1	What weapon is ; the : mythological character Apollo most proficient with , ?
-1	What ! weapon is the mythological , character Apollo most proficient with ?
-1	What weapon is ? the mythological , character Apollo most proficient with ?
 1	What weapon is the mythological character Apollo most proficient ! with ; ?
 1	What weapon : is : the mythological character Apollo ! most proficient ; with ?
 1	What weapon is the mythological character ; Apollo most proficient with ?
 1	? What weapon : is the mythological character Apollo most proficient ! with . ?
+1	! What weapon is ! the , mythological character : Apollo most proficient with ?
+1	What weapon is the mythological character Apollo most proficient with ! ?
+1	What weapon is the mythological . character Apollo most proficient with ?
+1	: What weapon is ? the mythological ? character Apollo most proficient with ! ?
+1	What weapon is , the mythological ? character ? Apollo most proficient with ?
 1	What weapon is the mythological character Apollo most proficient with ?
-4	What country do : the ; Galapagos Islands belong to ?
-4	What country do the Galapagos Islands ! belong to ?
-4	What : country ! do the Galapagos Islands belong to ?
-4	What country do the Galapagos . Islands belong to ?
-4	What country do ! the Galapagos . Islands belong to ?
-4	What country ! do the Galapagos Islands , belong ? to ?
-4	What country do ? the Galapagos Islands . belong to ?
-4	What , country do the ; Galapagos Islands belong to ! ?
-4	What country : do the Galapagos Islands belong to ?
+4	What ! country do the Galapagos Islands belong to ?
+4	What country do ; the Galapagos Islands belong to ?
+4	What country : do : the Galapagos Islands belong to ?
+4	What , country do the Galapagos Islands belong to ?
+4	What country ; do the Galapagos Islands belong to ?
+4	, What , country do the Galapagos Islands ; belong to ?
+4	: What ; country do the Galapagos Islands belong to ?
+4	What country do the : Galapagos Islands belong to , ?
+4	What country do the ? Galapagos Islands belong to ?
 4	What country do the Galapagos Islands belong to ?
 0	, What is ethology ?
-0	What ; is ethology ?
-0	What is ethology , ?
-0	What ; is ethology ?
-0	: What is ethology ; ?
-0	What is ! ethology : ?
-0	What ! is ethology ?
-0	, What is ethology ; ?
 0	; What is : ethology ?
+0	What ; is , ethology ?
+0	What is ethology ! ?
+0	What : is , ethology ?
+0	? What , is ethology ?
+0	. What ? is ethology ?
+0	What ? is ethology ?
+0	What ? is : ethology ?
 0	What is ethology ?
-3	Who was the prophet , of ; the Muslim people ; ?
-3	Who was the prophet of the Muslim people . ?
-3	Who was the prophet of ! the Muslim people ? ?
-3	Who was ; the prophet of , the Muslim . people ?
-3	Who was . the prophet ! of the Muslim people ?
-3	Who was the prophet of the Muslim , people ?
-3	Who was the prophet of the ? Muslim people ?
-3	Who was the : prophet of ! the Muslim : people ?
-3	Who was the prophet of the ! Muslim people ?
+3	Who was the ! prophet of the ; Muslim people ?
+3	Who was the prophet of the , Muslim people ?
+3	Who was ? the . prophet of the Muslim : people ?
+3	Who was the prophet ? of the Muslim , people ?
+3	Who was the prophet of the Muslim people , ?
+3	Who was the prophet , of the Muslim people ?
+3	Who was the ; prophet of the ; Muslim ? people ?
+3	Who was the prophet ! of the Muslim people ?
+3	Who was , the prophet of the Muslim people ?
 3	Who was the prophet of the Muslim people ?
-0	Where did the term `` 86ed , '' come from ?
-0	Where did ? the term `` 86ed . '' : come ? from ?
-0	Where did , the term `` 86ed ; '' ; come from ?
-0	Where did , the term : `` 86ed '' come from ?
-0	Where did the term `` 86ed . '' ! come from ?
-0	Where . did ; the term `` 86ed '' come ? from ?
+0	Where did the term `` 86ed '' come ? from ?
 0	Where did the . term `` 86ed '' come from ?
 0	. Where did the . term `` ! 86ed '' ! come from ?
 0	Where did the term `` 86ed . '' come from ?
+0	Where : did the term `` 86ed '' come from ?
+0	Where did the term `` 86ed : '' come : from ?
+0	, Where . did ; the term `` 86ed . '' come from ?
+0	! Where did the term `` 86ed , '' come from ?
+0	, Where did the ! term `` 86ed , '' come ! from ?
 0	Where did the term `` 86ed '' come from ?
+3	Who is ! Snoopy 's . arch-enemy ?
+3	Who is Snoopy 's ? arch-enemy ?
+3	Who is ; Snoopy 's arch-enemy ?
+3	Who is Snoopy 's , arch-enemy ! ?
 3	: Who is Snoopy 's arch-enemy ?
-3	Who is Snoopy 's arch-enemy ; ?
-3	Who is Snoopy . 's arch-enemy : ?
-3	Who , is Snoopy 's arch-enemy , ?
-3	Who is Snoopy 's . arch-enemy ?
-3	Who is Snoopy : 's arch-enemy ?
-3	Who is , Snoopy 's arch-enemy ?
-3	? Who is Snoopy ? 's arch-enemy ?
-3	Who is , Snoopy 's arch-enemy ?
+3	Who ! is Snoopy 's , arch-enemy ?
+3	Who is Snoopy : 's ! arch-enemy ?
+3	, Who is ; Snoopy 's arch-enemy ?
+3	Who is Snoopy 's arch-enemy . ?
 3	Who is Snoopy 's arch-enemy ?
-0	What is ! the nature of ; learning ?
-0	. What is the nature of learning ; ?
-0	What is the nature , of learning ! ?
-0	What is the ; nature , of learning ! ?
-0	: What is the nature of learning ?
-0	What is the nature , of learning ! ?
-0	What is the nature : of learning ?
-0	What is : the : nature of learning : ?
-0	What is ? the nature of ! learning . ?
+0	What : is ! the nature . of learning ?
+0	What ! is , the nature of learning ?
+0	What : is the nature of learning ?
+0	: What is : the nature of learning ?
+0	What is : the nature of learning ?
+0	What is , the nature of learning ?
+0	What is the ! nature , of learning . ?
+0	What is the nature of ; learning ?
+0	; What is the nature ! of learning , ?
 0	What is the nature of learning ?
-1	: What 's the only color Johnny Cash wears on . stage ?
-1	What 's the . only ? color Johnny Cash wears on stage ! ?
-1	What 's , the only color , Johnny Cash wears on stage ?
-1	What : 's the only . color Johnny Cash wears on ! stage , ?
-1	What 's the . only color . Johnny Cash : wears on ; stage ?
-1	What 's the only color Johnny Cash wears ! on stage ?
-1	What 's the ? only color Johnny Cash wears ! on stage ?
-1	; What 's the only color Johnny Cash wears on stage ; ?
+1	What 's the only color Johnny ! Cash wears , on stage ?
+1	What 's the only color Johnny Cash wears on ; stage ?
 1	What 's the only ? color Johnny Cash : wears ? on stage ?
+1	What 's the only color Johnny Cash . wears . on : stage ?
+1	What 's the , only color Johnny Cash wears on stage ?
+1	What 's the only color Johnny Cash , wears on stage ?
+1	What 's the only , color Johnny ; Cash wears on stage ?
+1	What 's the only color , Johnny Cash wears on stage ! ?
+1	What 's the only color Johnny , Cash wears on stage ?
 1	What 's the only color Johnny Cash wears on stage ?
-1	. What 's the term : for a young . fox ?
-1	What 's the . term for a young fox ?
-1	What 's ? the term for a young fox : ?
-1	What 's : the term for a young fox ! ?
-1	What 's the term . for a young fox ?
-1	What 's : the term for a . young fox ?
-1	: What ! 's the term for a young . fox ?
-1	? What 's the term ; for a ! young fox ?
-1	. What 's the term for a young fox ?
+1	? What 's the term for a young fox , ?
+1	What : 's the term for : a young fox ! ?
+1	; What 's the ! term for a , young fox ?
+1	What . 's the term for a young fox ?
+1	What ? 's the term for ; a , young fox ?
+1	? What 's ! the term for a young . fox ?
+1	What 's the term for . a young : fox ?
+1	What 's : the , term for a young fox , ?
+1	What ; 's the term for a young fox ?
 1	What 's the term for a young fox ?
-4	What ? U.S. state lived under six flags ?
-4	What : U.S. state lived . under six ; flags ?
-4	What U.S. ! state . lived under six flags ! ?
-4	: What U.S. state lived under six flags : ?
-4	What U.S. ? state lived under six flags ?
-4	What . U.S. state ; lived under six , flags ?
-4	What U.S. ! state lived under ! six flags ?
-4	! What U.S. ? state lived under six ; flags ?
-4	What U.S. state lived under six ? flags ?
+4	What U.S. state lived , under six flags ?
+4	What U.S. ? state lived ! under . six flags ?
+4	What U.S. state lived , under six flags ? ?
+4	! What U.S. state lived under six ? flags ?
+4	What U.S. state lived ? under six flags ; ?
+4	What U.S. ? state lived . under six flags ?
+4	What U.S. state lived ! under six flags : ?
+4	What : U.S. state lived under six flags ?
+4	. What ? U.S. : state lived under six flags ?
 4	What U.S. state lived under six flags ?
-0	? What is ! the Kashmir issue ?
-0	What is the ; Kashmir ? issue ?
-0	What is . the ! Kashmir issue ?
-0	What is : the Kashmir , issue ?
-0	What is the Kashmir issue : ?
-0	What is . the Kashmir issue ?
-0	What is the : Kashmir issue ?
 0	What : is . the Kashmir issue ?
 0	! What is the Kashmir issue ?
+0	What is the : Kashmir issue ?
+0	What is the Kashmir . issue ?
+0	What ? is the Kashmir ? issue ?
+0	What , is , the Kashmir issue ?
+0	? What is the , Kashmir issue ?
+0	: What is the Kashmir issue . ?
+0	What is the Kashmir . issue ?
 0	What is the Kashmir issue ?
-4	Where is the : Loop ?
-4	Where is the Loop . ?
-4	Where ? is the Loop ? ?
-4	Where , is , the Loop ?
-4	? Where is the , Loop ?
-4	: Where is the Loop : ?
-4	Where is the Loop . ?
 4	Where : is the Loop . ?
 4	Where , is the Loop , ?
+4	; Where is the Loop ?
+4	! Where is the Loop ?
+4	. Where : is the Loop ?
+4	Where is the Loop , ?
+4	! Where ? is the Loop ?
+4	Where : is the Loop ?
+4	Where is the : Loop , ?
 4	Where is the Loop ?
-0	What ; does `` extended definition '' mean and how would one write a paper on it ?
-0	What does ! `` extended definition '' mean and how would one write a paper on it ?
-0	: What does , `` extended ; definition '' mean and how would one write a paper on it ?
-0	What does `` extended definition '' : mean and how would one write . a paper on it ?
-0	What does , `` extended definition '' mean and how would one : write a paper : on it ?
-0	What does ; `` extended definition '' mean and how ! would one ? write a paper on . it ! ?
-0	What does `` extended definition '' , mean and how would one write a paper ! on it , ?
-0	What does `` : extended definition '' mean , and how : would ; one write . a paper on ; it ?
-0	What does `` extended ! definition '' mean , and ? how would , one write a paper : on it ?
+0	! What does `` extended , definition '' mean and how ; would one write , a , paper on it ?
+0	What does `` extended definition '' ? mean and : how , would one write a paper on it ?
+0	What does ! `` extended definition '' , mean and ! how ! would one write a paper on it ?
+0	What does `` , extended definition '' ; mean and , how would , one : write a paper on , it ?
+0	What does `` extended definition '' . mean ? and : how ! would one : write a paper ? on it ?
+0	What does `` extended definition '' mean and how would one write , a paper on it ?
+0	What does `` extended ! definition '' mean and how would one . write a ? paper on it ?
+0	What does `` extended definition '' mean . and how would one write a paper on it ?
+0	What ? does `` extended . definition '' mean and how ! would one write a ? paper on it ?
 0	What does `` extended definition '' mean and how would one write a paper on it ?
-4	What , country 's capital : is Tirana , ?
-4	What country ? 's : capital is Tirana ? ?
-4	What country 's : capital is Tirana ?
-4	What country 's capital is ? Tirana . ?
-4	What ! country 's capital is Tirana ; ?
-4	What country 's capital is ! Tirana ?
-4	. What country 's , capital is Tirana ?
-4	What country 's capital is Tirana ? ?
-4	What country 's capital is ; Tirana ?
+4	? What country 's . capital is Tirana ; ?
+4	. What country ; 's capital is Tirana ?
+4	? What country 's . capital , is Tirana ?
+4	What ? country 's capital is Tirana . ?
+4	? What ? country 's capital is , Tirana ?
+4	What country ! 's capital ! is ! Tirana ?
+4	What . country 's capital is , Tirana ?
+4	What country 's ; capital is . Tirana ?
+4	, What country 's capital is , Tirana ?
 4	What country 's capital is Tirana ?
-0	What is titanium . ?
-0	What is . titanium . ?
-0	; What is titanium ? ?
-0	; What is titanium ; ?
-0	What is titanium ? ?
-0	What ! is titanium ?
-0	What ? is titanium ?
 0	: What is titanium ?
 0	What is titanium ? ?
+0	, What is titanium ?
+0	What is titanium . ?
+0	: What is titanium ? ?
+0	What . is titanium , ?
+0	What ; is ! titanium ?
+0	What is ? titanium ? ?
+0	What is , titanium ?
 0	What is titanium ?
-3	Who do Herb and Tootsie ! live next door to ! ?
-3	Who , do Herb ? and Tootsie live ? next door to ?
-3	Who do Herb and Tootsie live next : door to ?
-3	Who do Herb , and Tootsie live next door to ?
-3	: Who do Herb ? and Tootsie live next door to ?
-3	? Who . do ! Herb and Tootsie live next door to : ?
-3	Who : do Herb and Tootsie live next door to ?
-3	Who do . Herb , and ! Tootsie live next door to : ?
-3	Who do Herb and ? Tootsie live next door ! to ?
+3	Who do ? Herb and Tootsie live , next door to ?
+3	Who do Herb and Tootsie live ! next door to ?
+3	, Who do ; Herb : and Tootsie live next door to ! ?
+3	Who do Herb and Tootsie live ; next door to ?
+3	: Who do Herb and Tootsie live next door . to , ?
+3	Who do Herb and , Tootsie live next door to ; ?
+3	, Who do Herb and Tootsie live next door to ?
+3	Who do Herb and Tootsie live next ; door to ?
+3	Who , do Herb and Tootsie live , next , door to ?
 3	Who do Herb and Tootsie live next door to ?
-4	Which city , has , the oldest : relationship ? as a sistercity with Los Angeles ?
-4	Which ? city has , the . oldest relationship ; as a sistercity with Los Angeles ?
-4	Which city ; has the oldest : relationship as a sistercity with Los Angeles ?
-4	! Which city has the oldest relationship . as a ; sistercity with Los Angeles ?
-4	Which city has the oldest relationship as a sistercity with . Los Angeles ?
-4	Which city ! has the oldest relationship as a sistercity , with Los Angeles ?
-4	, Which city has the oldest relationship as a sistercity with Los Angeles ?
-4	Which city has the oldest relationship as ; a sistercity with Los Angeles ?
-4	Which ? city has the oldest relationship as a sistercity : with Los : Angeles ?
+4	Which city has the oldest . relationship as a sistercity with Los Angeles ?
+4	Which city has , the oldest , relationship as a , sistercity with Los Angeles ; ?
+4	Which city has the oldest relationship as ? a ! sistercity with Los Angeles ?
+4	Which city has the oldest relationship as a sistercity with Los ; Angeles ?
+4	? Which city has ; the oldest relationship as a sistercity with Los , Angeles ?
+4	, Which city has the oldest relationship . as a ? sistercity with Los Angeles ?
+4	? Which city has the ; oldest relationship , as a sistercity . with Los Angeles ?
+4	Which city has the oldest relationship as a sistercity with ? Los ? Angeles ?
+4	, Which city has : the oldest relationship , as a sistercity with Los Angeles ?
 4	Which city has the oldest relationship as a sistercity with Los Angeles ?
+0	What , is a : caldera ?
+0	What : is ? a caldera ?
+0	What is a . caldera ?
+0	What . is a caldera ?
+0	What , is a caldera ?
+0	What ! is a caldera ?
+0	What ; is a caldera ?
 0	What , is a caldera . ?
-0	, What is a ; caldera ?
-0	What , is a caldera ; ?
-0	What is a ; caldera ?
-0	: What is ; a caldera ?
-0	, What ? is a caldera ?
-0	What is ; a caldera ?
-0	What is a , caldera ?
-0	What is a ? caldera ?
+0	What is a ; caldera ! ?
 0	What is a caldera ?
+0	Why . do people ! get calluses ?
+0	Why do : people get calluses , ?
 0	Why do people : get calluses ?
-0	Why do people ; get , calluses ?
-0	Why : do people get calluses ?
-0	Why do ? people . get calluses ?
-0	Why : do people get calluses ?
-0	Why do , people get calluses ?
-0	Why : do people ! get calluses ?
-0	Why do people get calluses ? ?
-0	Why do people . get calluses ?
+0	; Why do : people get calluses ?
+0	Why do . people get calluses ; ?
+0	Why do ? people get calluses ?
+0	Why do people , get ; calluses ?
+0	; Why do ? people get calluses ?
+0	Why : do people get , calluses ?
 0	Why do people get calluses ?
-4	; What are : the names of the tourist attractions in Reims ?
-4	What are the , names of the tourist attractions in Reims ?
-4	What are ! the names of the tourist attractions in Reims . ?
-4	What are the names of the , tourist attractions in , Reims ?
-4	What ? are the names of the tourist ; attractions in Reims ?
-4	What are the names , of the tourist ? attractions . in Reims ! ?
-4	? What are : the names ! of the tourist attractions in Reims ?
-4	What are the names ; of the tourist attractions in Reims ?
-4	! What are the names of ? the tourist attractions ? in Reims ? ?
+4	What are ; the names of the tourist attractions ? in ! Reims ?
+4	What are the ? names of ; the tourist ! attractions in Reims : ?
+4	What . are ; the names of the . tourist attractions in Reims ?
+4	What . are the : names : of the tourist attractions in , Reims ?
+4	What are the names ? of the tourist attractions in : Reims ?
+4	What are the names , of ; the tourist . attractions in Reims ?
+4	? What ! are the names . of the , tourist attractions in Reims ?
+4	What are the names of the ! tourist ; attractions in Reims ?
+4	What are . the . names of the : tourist attractions in Reims ?
 4	What are the names of the tourist attractions in Reims ?
-0	What are Cushman . and ! Wakefield known for ; ?
-0	What ; are Cushman and : Wakefield known for ?
-0	What are Cushman and Wakefield : known for ?
-0	What are , Cushman and Wakefield ; known ? for ?
-0	What are Cushman and Wakefield known ? for , ?
-0	What are Cushman ; and Wakefield ! known for ?
-0	, What are Cushman . and Wakefield ; known for ?
-0	What are Cushman and Wakefield known for ! ?
-0	: What : are Cushman and Wakefield known for , ?
+0	What are Cushman and : Wakefield known for ?
+0	What are Cushman : and Wakefield known for ?
+0	What are Cushman and : Wakefield known ! for ?
+0	? What are Cushman and ; Wakefield known for ?
+0	What are Cushman and Wakefield known ; for ?
+0	What are Cushman and Wakefield ! known for ?
+0	What are , Cushman : and Wakefield known for ?
+0	What are Cushman and ! Wakefield known : for ! ?
+0	What are Cushman and Wakefield , known for , ?
 0	What are Cushman and Wakefield known for ?
-4	What body of water ? does the Danube River flow : into ?
-4	What body of water , does ; the Danube . River flow into ?
-4	? What ! body of water . does the , Danube River flow into ?
-4	What body of water does the ! Danube ; River flow into ?
-4	What body . of . water does the : Danube River flow into ?
-4	What body of water does the Danube River flow into : ?
-4	What : body of ! water does the : Danube River flow into ?
-4	; What body of water does the , Danube River flow into ? ?
-4	What body of water does ! the Danube River flow into ?
+4	What ; body of water , does the Danube River ! flow into ?
+4	What body of water does the Danube . River : flow into ?
+4	What ! body of water ! does the Danube River flow into ?
+4	What body ? of water does the Danube : River flow into ?
+4	: What body of water does the Danube River flow into ?
+4	: What body of water does the ? Danube River flow into ?
+4	What body of water does . the Danube River flow into ?
+4	What body of water does the ! Danube River flow : into ?
+4	What body ? of water does the Danube River flow into . ?
 4	What body of water does the Danube River flow into ?
-3	Who , is the : founder of Scientology ?
-3	Who is the founder ? of ; Scientology ; ?
-3	Who is ! the founder of ! Scientology ?
-3	Who : is ! the founder of Scientology . ?
-3	Who , is ? the founder : of Scientology ?
-3	! Who . is the founder of ! Scientology ?
-3	Who ? is the founder of Scientology ? ?
-3	: Who is the founder , of ? Scientology ?
-3	. Who is the ! founder of . Scientology ?
+3	Who ; is the founder ! of Scientology , ?
+3	Who is the founder of . Scientology ?
+3	, Who is ! the , founder of Scientology ?
+3	! Who is the founder of Scientology ?
+3	Who is , the founder ? of Scientology , ?
+3	. Who ? is the founder of Scientology ?
+3	Who is the ? founder . of Scientology ?
+3	Who : is the founder of Scientology , ?
+3	Who ; is ! the founder of Scientology ; ?
 3	Who is the founder of Scientology ?
-1	What does the six-footed Musca domestica ! become when it : enters a house ?
-1	What does ? the six-footed Musca domestica become when it enters . a house ?
-1	What does the six-footed Musca domestica become when ; it enters a ! house ?
-1	What does the . six-footed Musca domestica become when it enters a : house ?
-1	, What does the , six-footed . Musca domestica become when it enters a ! house ?
-1	What does ? the six-footed Musca domestica become when , it enters a ! house ?
-1	What does the . six-footed Musca domestica become when it enters a house ?
-1	What does the six-footed Musca domestica . become ? when it , enters , a house ?
-1	What does the six-footed , Musca domestica become when it enters a ! house ?
+1	; What does the . six-footed Musca domestica become when it ; enters a house ?
+1	What does the six-footed Musca domestica . become when it enters ; a house ! ?
+1	What does the six-footed Musca domestica become when it enters a , house ?
+1	What does the six-footed Musca domestica become when it enters a ! house ?
+1	What does the . six-footed , Musca domestica become when it . enters a house ?
+1	What does the six-footed Musca domestica become when it enters a : house , ?
+1	What does the six-footed Musca domestica become . when it enters ; a ? house ?
+1	What does the six-footed Musca domestica become when it enters , a house , ?
+1	; What does the six-footed Musca domestica become when it enters ! a house ?
 1	What does the six-footed Musca domestica become when it enters a house ?
-0	What is . the history ; of skateboarding , ?
-0	! What is the history : of skateboarding ? ?
-0	; What is : the history . of skateboarding ?
-0	; What ! is ! the history of skateboarding ?
-0	What is the history . of skateboarding ?
-0	, What is the history of skateboarding ?
-0	What ! is the history : of ? skateboarding ?
-0	? What is the history , of skateboarding ?
-0	What : is the history of . skateboarding ; ?
+0	: What is the history of , skateboarding ! ?
+0	What is the history : of skateboarding ?
+0	: What is the ? history of skateboarding ?
+0	What is : the history , of skateboarding ? ?
+0	; What is the history of skateboarding ?
+0	? What is the history : of . skateboarding ?
+0	What is the history of skateboarding . ?
+0	What ! is the history of skateboarding : ?
+0	What is . the history ! of , skateboarding ?
 0	What is the history of skateboarding ?
-3	Who ! starred , in Singing in the Rain and The ; Singing Nun ?
-3	! Who starred in Singing in ; the : Rain and The Singing Nun , ?
-3	? Who : starred in Singing in the Rain and The . Singing Nun . ?
-3	Who starred in Singing in the , Rain and The Singing Nun ?
-3	Who starred in Singing in the Rain and The ! Singing ! Nun . ?
-3	Who starred ; in Singing in the Rain and The , Singing Nun : ?
+3	Who starred in : Singing in the Rain and : The Singing Nun ?
 3	Who ? starred in Singing in the ! Rain . and The Singing Nun ?
 3	Who starred ; in . Singing in the ? Rain ; and The Singing Nun ?
 3	Who starred in Singing in the Rain ? and The Singing Nun ?
+3	Who starred in Singing in the Rain and The Singing Nun ! ?
+3	Who , starred in Singing in the Rain and , The : Singing ? Nun ?
+3	Who starred in Singing in the ? Rain and The Singing Nun ?
+3	Who starred in Singing ; in the . Rain and The Singing Nun , ?
+3	. Who starred in Singing in the Rain and The Singing Nun ?
 3	Who starred in Singing in the Rain and The Singing Nun ?
-0	How do I make ? fuel bricks from recycled newspaper ?
-0	How ; do I make fuel bricks from recycled newspaper ?
-0	How do . I make fuel bricks ? from recycled newspaper ?
-0	How do I make . fuel , bricks . from recycled . newspaper ?
-0	How do I make fuel bricks from recycled newspaper ; ?
 0	How do I make . fuel bricks from recycled newspaper ?
 0	? How . do I make fuel bricks ; from recycled newspaper ! ?
 0	How do ! I make fuel bricks from recycled newspaper ?
 0	How do I make fuel bricks ! from ? recycled newspaper ?
+0	. How do I : make ! fuel bricks from recycled newspaper , ?
+0	How do ? I . make ; fuel bricks . from recycled newspaper ?
+0	How do I make fuel bricks from recycled newspaper , ?
+0	How do I make ! fuel bricks from ; recycled newspaper ?
+0	How do I . make fuel bricks . from recycled newspaper ?
 0	How do I make fuel bricks from recycled newspaper ?
-3	What 19th-century painter . died . in the Marquesas Islands ?
-3	What 19th-century , painter ; died in : the Marquesas Islands ?
-3	What 19th-century painter died in ? the . Marquesas Islands ?
-3	What , 19th-century painter died , in the Marquesas Islands ! ?
-3	What 19th-century : painter died in : the Marquesas Islands ?
-3	What 19th-century painter died in the . Marquesas Islands ?
-3	; What 19th-century painter died in the Marquesas Islands ?
-3	, What ; 19th-century painter died , in the Marquesas Islands ?
-3	What ; 19th-century painter died in the Marquesas Islands ?
+3	, What 19th-century , painter died in the Marquesas Islands ; ?
+3	What 19th-century . painter died in the Marquesas Islands ?
+3	What ; 19th-century painter died , in , the Marquesas Islands ?
+3	What 19th-century . painter died in the Marquesas Islands , ?
+3	; What 19th-century painter : died in ? the Marquesas Islands ?
+3	, What 19th-century painter died in the . Marquesas ? Islands ?
+3	What 19th-century painter died in the , Marquesas Islands ?
+3	What 19th-century painter died ? in the Marquesas Islands ?
+3	What 19th-century painter died ? in ! the Marquesas Islands ?
 3	What 19th-century painter died in the Marquesas Islands ?
-1	The corpus callosum is : in what part of the body ?
-1	The corpus callosum , is in , what part of the body ?
-1	The corpus callosum ; is in what part of the body ?
-1	The : corpus callosum ? is in what : part of the body ?
-1	. The corpus callosum ? is in what part , of the body , ?
-1	The corpus callosum is : in ; what ! part of the body ?
-1	The corpus callosum ? is in , what part of the ; body ; ?
+1	The corpus callosum is in ? what part of , the body ?
 1	The corpus callosum is , in what part of the body ?
 1	! The corpus callosum is in what part : of the body . ?
+1	; The . corpus callosum is : in what part : of the body ?
+1	The corpus callosum is in what part . of the ; body ?
+1	The corpus : callosum is ? in what part of the body ?
+1	The corpus callosum is in what ? part of the body ?
+1	The corpus callosum is in what part of the body ? ?
+1	The corpus callosum is ; in : what part , of : the body ?
 1	The corpus callosum is in what part of the body ?
-0	How . do I log ; on to home . page at Headquarters : U.S. European Command ?
-0	; How do ; I log on to home , page , at ! Headquarters U.S. European Command ?
-0	How . do I log on to : home page at ? Headquarters U.S. European ? Command ?
-0	How do I log : on to home ! page at Headquarters ; U.S. European Command ?
-0	How do I log on to home page at Headquarters U.S. ; European Command : ?
-0	, How do I log : on to ! home page at Headquarters U.S. , European Command ? ?
-0	How do ! I : log on to ? home , page at Headquarters U.S. European ; Command ?
-0	How do , I ! log on to home page at Headquarters U.S. European Command ?
+0	? How do I log , on to home page : at Headquarters ! U.S. , European Command ?
+0	How do I log on to , home , page : at Headquarters U.S. : European Command ?
+0	How do I ; log : on to , home page at Headquarters U.S. , European Command ?
+0	How do I : log . on to home page at Headquarters U.S. European Command ?
+0	How do I log on to home ? page at , Headquarters U.S. European Command ?
+0	How do I : log on ; to ? home page at Headquarters U.S. ; European Command ?
 0	How do I ? log on to home page at Headquarters U.S. European Command ?
+0	How do I log on ? to home page at Headquarters U.S. European Command ?
+0	How do I log on to home page , at Headquarters U.S. European Command ?
 0	How do I log on to home page at Headquarters U.S. European Command ?
-4	What country ? did the Nazis , occupy : for 1 , CD NNS ; IN NNP ? NNP NNP .
-4	? What . country did ; the Nazis , occupy for ! 1 , CD NNS IN NNP NNP NNP .
-4	What country did the Nazis occupy for 1 , CD , NNS IN . NNP : NNP NNP .
+4	What country did the Nazis occupy , for 1 . , CD : NNS IN NNP NNP NNP .
 4	What country did the Nazis occupy for 1 , CD NNS IN NNP NNP NNP ? .
 4	? What country did the Nazis occupy for 1 , CD , NNS IN NNP NNP NNP .
 4	What country did the Nazis occupy for 1 ; , CD ; NNS IN NNP NNP NNP : .
 4	What country did the . Nazis occupy for 1 ? , CD NNS IN NNP ! NNP NNP , .
 4	! What , country did the Nazis occupy for : 1 , CD NNS IN NNP NNP : NNP .
 4	What country ! did the Nazis occupy for 1 . , CD NNS IN : NNP , NNP NNP .
+4	What country did the Nazis occupy for ; 1 , ; CD NNS IN NNP NNP NNP .
+4	What country . did the . Nazis occupy for 1 , CD ? NNS IN NNP NNP NNP .
 4	What country did the Nazis occupy for 1 , CD NNS IN NNP NNP NNP .
-1	What is Nebraska ; 's most valuable resource ?
-1	What , is Nebraska 's most : valuable . resource ?
-1	What is Nebraska 's most valuable resource ? ?
-1	What : is Nebraska 's most valuable : resource , ?
-1	What is ; Nebraska 's most valuable resource ?
-1	! What is Nebraska 's most valuable resource : ?
-1	What is ! Nebraska ; 's most valuable resource ?
-1	What , is Nebraska : 's ; most valuable resource ?
-1	What is Nebraska 's ? most valuable resource ?
+1	What , is Nebraska 's most valuable resource : ?
+1	What , is ; Nebraska 's most ! valuable resource ?
+1	What ! is Nebraska 's most valuable resource ?
+1	What ! is Nebraska ; 's ; most valuable resource ?
+1	What is Nebraska 's most valuable resource , ?
+1	What is ? Nebraska 's ! most valuable resource ; ?
+1	. What ! is Nebraska 's most . valuable resource ?
+1	What is Nebraska 's most valuable resource ; ?
+1	What is Nebraska 's . most valuable . resource ?
 1	What is Nebraska 's most valuable resource ?
-5	How many species of the Great White shark . are : there . ?
-5	How many species of . the Great White shark are there ?
-5	How many species of the Great White ; shark are ? there ?
-5	? How many species ! of the Great White shark are there ! ?
+5	How many species of ! the Great ; White shark are there ?
 5	How many species ? of the Great White ! shark are . there . ?
 5	How many species of . the Great White shark are there ?
 5	How ? many species : of the : Great White shark are there ! ?
 5	How many species of . the Great : White shark are there ?
 5	How many species of , the Great White shark are ! there ?
+5	How many ! species , of the ; Great , White shark are there ?
+5	How many species . of the Great White shark are there ?
+5	How : many species of the Great White shark are there ?
 5	How many species of the Great White shark are there ?
-0	What is ? the origin of head , lice , ?
-0	What is the , origin . of head lice ?
-0	. What is the origin of head lice ?
-0	What is . the origin of head lice ?
+0	: What is the origin of head lice ?
 0	: What is : the origin ; of head lice ?
 0	What is the origin of head ! lice ?
 0	What , is the ! origin ; of head lice ?
 0	! What is , the ! origin of head lice ?
 0	What is the origin : of head ? lice . ?
+0	What : is the ! origin of , head lice ?
+0	. What is ? the origin of . head lice ?
+0	! What is the , origin ? of head lice ?
 0	What is the origin of head lice ?
-4	What is the nickname for the : state of Mississippi ?
-4	What is the . nickname . for ? the state of Mississippi ?
-4	What is the nickname for the state of : Mississippi ?
-4	, What is the nickname for ? the state ; of Mississippi ?
 4	What is the ! nickname for the state of Mississippi ?
 4	! What ; is the nickname for the ! state of Mississippi . ?
 4	What is : the nickname for the ! state of ? Mississippi , ?
 4	What ! is ! the nickname for the state of , Mississippi , ?
 4	What is , the nickname for the state ! of Mississippi ?
+4	What . is ; the nickname ! for the state of Mississippi ! ?
+4	What ; is the : nickname : for the state of Mississippi ?
+4	! What is : the nickname for , the state of Mississippi ; ?
+4	What ; is the nickname for the state ! of Mississippi ?
 4	What is the nickname for the state of Mississippi ?
-1	What , was the first domesticated : bird ?
-1	What was the first . domesticated bird ?
-1	What was . the first domesticated ; bird , ?
-1	What was : the ; first . domesticated bird ?
-1	What was : the first domesticated bird , ?
-1	What ? was the first . domesticated ; bird ?
-1	What was the first , domesticated ! bird ?
-1	What was the : first domesticated bird ? ?
-1	What was , the first domesticated bird ?
+1	What ! was ? the first domesticated : bird ?
+1	What , was ! the first domesticated bird ?
+1	What : was the first ! domesticated bird ?
+1	, What was , the first domesticated bird ?
+1	What was , the ? first domesticated bird ?
+1	What was the : first domesticated ? bird ?
+1	What was ; the first domesticated . bird ?
+1	What was ; the first domesticated bird ; ?
+1	What was the : first domesticated bird ?
 1	What was the first domesticated bird ?
-5	How many villi ? are found ! in the . small intestine ?
-5	How many villi ! are found in ? the small intestine ?
-5	How many villi are found : in the ? small intestine ?
-5	! How many villi ! are ; found ; in the small intestine ?
-5	How many villi are ! found in the ; small intestine ?
-5	How many villi ! are , found in ! the small . intestine ?
-5	How many : villi are found in ! the small intestine ?
-5	How many . villi are ! found in the small intestine ?
+5	How many villi are found ? in : the small ! intestine ?
+5	How many villi are , found in the small intestine ! ?
+5	How many villi are found in the small , intestine ?
+5	How many , villi . are ! found in the small intestine ; ?
 5	, How many ! villi are found in the : small intestine ?
+5	How many villi are ? found in the small intestine ? ?
+5	, How many : villi are found in ? the small intestine ?
+5	. How many villi ; are found in the ? small ? intestine ?
+5	How many villi are found in : the ! small intestine ?
 5	How many villi are found in the small intestine ?
-4	What country : did King Wenceslas rule ?
-4	What country did ! King Wenceslas rule ? ?
-4	What country did King . Wenceslas rule ?
 4	What country did King Wenceslas ? rule ?
-4	What country did . King ; Wenceslas ? rule ?
-4	? What country did King ? Wenceslas rule ?
-4	What : country did ! King Wenceslas , rule ?
-4	What country ; did , King Wenceslas rule : ?
+4	What country did , King : Wenceslas rule ?
 4	What : country : did King Wenceslas rule , ?
+4	; What country did King Wenceslas rule ?
+4	What country did King Wenceslas ! rule ! ?
+4	What country did , King ; Wenceslas rule ?
+4	What country did King ? Wenceslas ? rule ? ?
+4	; What country did King : Wenceslas rule ? ?
+4	What country did King Wenceslas ! rule . ?
 4	What country did King Wenceslas rule ?
-1	; What is a fear of shadows ?
-1	What is a fear of ! shadows ! ?
-1	What is a , fear ; of shadows ?
-1	What is a fear ? of ? shadows ? ?
-1	; What is a fear : of shadows ? ?
-1	What is a fear of ! shadows . ?
 1	What . is a fear of ? shadows ! ?
 1	What is a ? fear of shadows ?
 1	What is ? a fear of shadows ?
+1	. What is a : fear . of shadows ?
+1	What is a , fear of shadows ?
+1	What is a fear , of shadows ?
+1	What ? is a fear ; of shadows ?
+1	? What is a fear of shadows ?
+1	What is a : fear : of shadows ?
 1	What is a fear of shadows ?
-3	. Who were the : five . Marx brothers ?
-3	Who were the , five Marx brothers ?
-3	Who were the five , Marx brothers ?
-3	Who ? were the five ; Marx brothers ?
-3	? Who were the five Marx brothers ?
-3	Who were the : five : Marx brothers ?
 3	. Who were the five ; Marx brothers ?
 3	Who were the ; five Marx brothers ?
 3	Who ? were the five Marx brothers ! ?
+3	Who were the . five Marx brothers , ?
+3	Who were the five Marx . brothers ?
+3	Who were the five Marx , brothers ?
+3	Who were the ? five . Marx brothers ?
+3	; Who were the ; five . Marx brothers ?
+3	Who ! were the five Marx brothers ?
 3	Who were the five Marx brothers ?
-5	: In . which year . was New Zealand : excluded from the ANZUS alliance ?
-5	In which year was New ; Zealand ? excluded from the ANZUS alliance ?
 5	In which year was New Zealand excluded from the . ANZUS alliance ?
-5	, In ! which year was New Zealand excluded from . the ANZUS alliance ; ?
-5	; In which year was New Zealand excluded from the ANZUS alliance ?
-5	: In which year was New , Zealand excluded : from the ANZUS alliance ?
-5	In which . year was ? New Zealand excluded from the ANZUS alliance , ?
+5	In which year was New Zealand excluded from the ! ANZUS alliance ?
+5	In which year was New : Zealand excluded from the ANZUS alliance ?
+5	In which ! year was : New Zealand excluded from the : ANZUS alliance , ?
+5	In which year was New Zealand , excluded from the ANZUS alliance ?
 5	! In , which year . was New ; Zealand excluded from the ANZUS alliance ?
 5	In which year . was New Zealand excluded from the ANZUS alliance : ?
+5	In which : year was ! New Zealand excluded from the ANZUS alliance ?
+5	In ! which year was New ? Zealand excluded from the ANZUS ! alliance ! ?
 5	In which year was New Zealand excluded from the ANZUS alliance ?
-5	When ! did CNN begin broadcasting ?
-5	When did : CNN . begin broadcasting ?
-5	When did ! CNN ! begin broadcasting ?
 5	! When did CNN , begin broadcasting ?
 5	When did CNN : begin broadcasting ?
 5	When did CNN begin broadcasting ; ?
 5	When did CNN begin broadcasting , ?
 5	, When did CNN begin broadcasting ; ?
 5	When did CNN . begin broadcasting ?
+5	. When did . CNN begin broadcasting ?
+5	When ! did CNN begin . broadcasting ?
+5	When did CNN begin ? broadcasting ?
 5	When did CNN begin broadcasting ?
-0	. What ? causes the body to , shiver in cold temperatures ?
-0	. What causes the ; body to shiver ! in cold temperatures ?
+0	What causes the body to shiver in cold temperatures ! ?
 0	What causes the body , to shiver in ? cold ? temperatures ?
 0	What causes the . body to shiver in cold temperatures ?
 0	What causes the body to ; shiver in ; cold temperatures , ?
@@ -917,9 +916,8 @@
 0	What causes the ! body to shiver in cold : temperatures ?
 0	What causes the body ! to shiver , in cold ; temperatures ?
 0	What causes the body to shiver in cold : temperatures , ?
+0	What causes , the body to shiver ; in : cold temperatures ?
 0	What causes the body to shiver in cold temperatures ?
-0	What are bear : and bull markets , ?
-0	What are bear and : bull markets ?
 0	What ! are bear and bull markets ?
 0	; What are bear and ! bull markets ! ?
 0	! What are bear and . bull markets ?
@@ -927,59 +925,59 @@
 0	; What are bear and bull markets ? ?
 0	What are : bear and bull markets ?
 0	What are ! bear and ; bull . markets ?
+0	What . are bear and ? bull : markets ?
+0	What are bear and ! bull markets , ?
 0	What are bear and bull markets ?
-1	What J.R.R. Tolkien book features Bilbo Baggins as . the central character ? ?
-1	What J.R.R. Tolkien ? book features ! Bilbo Baggins as . the central character ?
-1	What ! J.R.R. Tolkien book features Bilbo Baggins as the central character ?
-1	What ; J.R.R. Tolkien ? book features Bilbo Baggins as ! the central character ?
-1	; What J.R.R. ; Tolkien . book features Bilbo Baggins as : the central character ?
+1	! What ! J.R.R. Tolkien book features , Bilbo Baggins as the . central character ?
+1	, What J.R.R. ; Tolkien book features ; Bilbo ; Baggins as the central character ?
+1	What J.R.R. Tolkien book features Bilbo Baggins as the central ; character ?
 1	What J.R.R. ; Tolkien book features Bilbo Baggins as the . central character ?
 1	What J.R.R. ! Tolkien : book features Bilbo ! Baggins as the central ? character ?
 1	What J.R.R. Tolkien book features Bilbo . Baggins as the ! central character ?
 1	What J.R.R. Tolkien book features Bilbo Baggins as ! the central character ?
+1	What J.R.R. Tolkien ; book features ; Bilbo Baggins as ? the central character ?
+1	! What J.R.R. Tolkien , book ? features Bilbo Baggins as : the central character ?
 1	What J.R.R. Tolkien book features Bilbo Baggins as the central character ?
-0	What ; is ! `` dew point '' ; ?
-0	What is , `` : dew point '' ; ?
-0	What is , `` dew point '' ?
-0	What is `` . dew point : '' ?
-0	What ? is ; `` dew point : '' ?
-0	What is ? `` dew : point '' : ?
-0	; What is `` ! dew point : '' ?
-0	? What is `` dew point . '' ?
-0	What ; is . `` dew point '' ?
+0	: What is `` dew point '' : ?
+0	What ? is `` dew point '' ; ?
+0	What is ! `` dew ? point '' : ?
+0	. What is `` ; dew ! point '' ?
+0	? What is . `` dew point ? '' ?
+0	What is ; `` dew point '' ?
+0	What is `` dew point '' ; ?
+0	What : is ! `` dew point '' . ?
+0	What : is `` dew point '' ?
 0	What is `` dew point '' ?
-0	What ! is the meaning of : Jesus ! ?
-0	What is the meaning of Jesus , ?
-0	What is the meaning of ? Jesus ?
-0	What is the meaning ? of Jesus ?
+0	; What is the meaning of Jesus ? ?
 0	What . is the . meaning of ; Jesus ?
 0	! What is the . meaning of Jesus ! ?
 0	What , is the meaning of Jesus ? ?
 0	What is the ; meaning of Jesus ?
 0	What is ; the meaning ; of Jesus ?
+0	What is the . meaning , of Jesus ?
+0	. What is the meaning of Jesus . ?
+0	What is , the meaning of Jesus ?
 0	What is the meaning of Jesus ?
-3	What , company 's logo is a `` ? W . '' in a circle ?
-3	What , company 's logo is a `` W '' in a circle ?
-3	What company 's ? logo is a `` W '' in ? a . circle ?
-3	What ! company 's ! logo , is a `` W '' in a circle ?
-3	. What company 's logo is a `` W '' in a circle ?
-3	What company 's logo is a : `` . W '' in a , circle ?
-3	! What company ; 's logo is , a `` W '' in a circle ?
-3	What company 's logo is ? a `` : W ; '' in a circle ?
-3	What : company , 's logo is a `` W '' in a circle ?
+3	! What company 's . logo is ! a ! `` W '' in a circle ?
+3	. What company 's logo is a `` W '' in a circle ! ?
+3	What ! company 's , logo is a `` ! W '' in a : circle ?
+3	What company 's logo ; is a `` W '' in a circle ?
+3	What company 's logo is a `` W ! '' ! in a circle ?
+3	What company 's logo is a , `` W . '' , in a : circle ?
+3	What company 's logo is a ? `` W '' in a : circle ?
+3	What company 's logo is a `` W : '' in a circle , ?
+3	What company 's logo ? is a `` W '' in a circle ?
 3	What company 's logo is a `` W '' in a circle ?
-0	What is the definition of , a cascade ; ?
-0	? What is ? the definition of a cascade ! ?
-0	What is the definition of a cascade ; ?
+0	? What is the definition of ; a cascade ?
 0	! What is the definition of a cascade ?
 0	What , is the definition of , a cascade ?
 0	What is , the definition of a cascade ?
 0	What . is the definition of a cascade ?
 0	What is the definition , of ! a cascade ?
 0	, What is the ! definition of a cascade ?
+0	What is the definition of a , cascade ?
+0	What ; is the definition . of a : cascade ?
 0	What is the definition of a cascade ?
-5	When did Rococo painting and architecture , flourish ?
-5	When ; did Rococo painting . and architecture : flourish ?
 5	When did Rococo painting and architecture flourish : ?
 5	When ? did Rococo . painting and architecture flourish ?
 5	: When did . Rococo painting and . architecture flourish ?
@@ -987,9 +985,9 @@
 5	When did ! Rococo painting and architecture , flourish ?
 5	When : did Rococo painting , and ? architecture flourish ?
 5	When did Rococo painting ! and architecture flourish ?
+5	When did Rococo : painting and architecture flourish ?
+5	When did Rococo . painting and architecture flourish ?
 5	When did Rococo painting and architecture flourish ?
-4	What country 's : national passenger rail system is called Via ?
-4	What country 's . national passenger rail system is called Via ?
 4	What : country 's national passenger rail system . is , called ; Via ?
 4	, What country 's national passenger rail . system is called Via ?
 4	What . country 's national passenger rail system is called Via ?
@@ -997,298 +995,300 @@
 4	: What country 's national passenger rail ! system is . called Via . ?
 4	What country ? 's national , passenger rail system is called Via ?
 4	What country 's national passenger rail system is called . Via : ?
+4	What country 's national : passenger . rail system is called Via ?
+4	What country ? 's national passenger ? rail ? system is called Via ; ?
 4	What country 's national passenger rail system is called Via ?
-3	Who invented ! Make-up ?
-3	Who invented Make-up : ?
-3	Who invented ; Make-up ?
-3	Who ? invented Make-up ; ?
 3	Who ? invented ! Make-up ?
 3	Who . invented Make-up ! ?
 3	! Who invented Make-up ?
 3	? Who ! invented Make-up ?
 3	Who ? invented Make-up : ?
+3	: Who invented Make-up ?
+3	Who ; invented Make-up . ?
+3	Who , invented Make-up ?
+3	Who invented Make-up . ?
 3	Who invented Make-up ?
-0	What : is the origin of the word `` ! attic '' ?
-0	; What , is the origin of the , word `` . attic '' ?
-0	What . is ! the origin : of the word , `` attic '' ?
-0	What is the origin ! of the word ; `` attic '' ?
+0	What is the origin . of the word ! `` attic '' ?
+0	What is ? the origin ! of the word `` attic '' ?
 0	. What is the origin of the word `` attic '' ?
 0	What is the origin of the word `` attic . '' ?
 0	What is the , origin of the word `` attic , '' : ?
 0	What ; is the origin of the : word `` attic '' ; ?
 0	What is the origin of the ? word ? `` attic . '' ?
+0	What is ; the origin of . the word `` attic '' ?
+0	What is the ? origin of the word . `` attic '' ?
 0	What is the origin of the word `` attic '' ?
-0	What did Delilah do to , Samson 's hair ?
-0	What ? did Delilah , do to Samson ? 's hair ?
-0	What did Delilah do to Samson 's : hair ?
-0	. What did Delilah do . to Samson 's hair ?
-0	What did Delilah do ; to Samson 's hair ?
-0	What did Delilah ? do to Samson ! 's hair , ?
+0	! What did Delilah do . to Samson 's hair ?
+0	! What did Delilah do to Samson 's hair ?
+0	What ? did Delilah ! do to Samson 's hair , ?
 0	What ; did Delilah do to Samson . 's hair ?
 0	What did Delilah ! do to , Samson 's ! hair ?
 0	? What , did Delilah : do to Samson 's hair ?
+0	What did ? Delilah do . to Samson 's hair : ?
+0	What did . Delilah do to Samson 's hair ?
+0	What did Delilah ; do . to Samson 's hair : ?
 0	What did Delilah do to Samson 's hair ?
-1	What kind of animals ? were . in the Paleozoic era ?
-1	What ; kind ; of animals were in the Paleozoic era ?
-1	What : kind of animals were in ; the Paleozoic . era ?
-1	What kind of animals were in the ! Paleozoic ? era ?
-1	What kind of : animals were in the Paleozoic era ?
-1	What kind of animals were in the ? Paleozoic ; era ?
-1	What , kind of animals were in the Paleozoic . era ?
-1	! What kind of animals were in the Paleozoic era ?
-1	: What kind of animals were ! in the Paleozoic era ?
+1	What kind of ; animals were in the Paleozoic era ?
+1	What , kind of animals were : in ; the Paleozoic era , ?
+1	; What kind , of animals were in . the Paleozoic . era ?
+1	What kind of animals , were in the Paleozoic era ?
+1	; What kind of animals were ? in the Paleozoic ! era ?
+1	. What kind , of animals , were in the Paleozoic era ?
+1	What kind of animals were in the ! Paleozoic era ?
+1	What ! kind of animals were in the Paleozoic era ?
+1	: What kind of animals were in the Paleozoic era ! ?
 1	What kind of animals were in the Paleozoic era ?
-3	Which of ! the following was Rhodes Scholar : ?
-3	! Which of the following was Rhodes Scholar ?
-3	Which of , the following was Rhodes Scholar ?
-3	. Which of . the ! following was Rhodes Scholar ?
-3	: Which of the following was Rhodes Scholar ?
-3	Which of ! the following ? was Rhodes Scholar ?
-3	Which of : the following was Rhodes Scholar ?
-3	Which of the following was Rhodes Scholar ; ?
-3	Which of the following was Rhodes ; Scholar ?
+3	Which of ? the following was . Rhodes Scholar ?
+3	Which ; of the following was Rhodes Scholar ?
+3	Which : of the following was : Rhodes Scholar ?
+3	Which of . the ; following was Rhodes Scholar ?
+3	? Which of the ! following was Rhodes Scholar , ?
+3	Which of the ? following was ? Rhodes Scholar ?
+3	Which , of . the following was Rhodes Scholar ?
+3	Which of the , following was Rhodes Scholar ?
+3	Which of ; the following was : Rhodes Scholar ?
 3	Which of the following was Rhodes Scholar ?
-3	Who ; comprised the now-defunct comic : book team known as the Champions ?
-3	? Who comprised the now-defunct comic book team known as the Champions ?
-3	Who comprised the ? now-defunct ? comic ? book team known as the Champions ? ?
-3	Who comprised the now-defunct , comic book team known as the Champions ?
-3	Who comprised the , now-defunct comic book team known as the Champions ?
-3	Who comprised the now-defunct comic ! book team known as the Champions ; ?
 3	Who , comprised the now-defunct comic book : team known as the Champions ?
 3	Who comprised the ! now-defunct comic book team ; known ; as the ? Champions ?
 3	, Who comprised the now-defunct comic book team ? known as . the Champions , ?
+3	Who . comprised the now-defunct comic ! book team : known , as the Champions ?
+3	; Who comprised the ! now-defunct ; comic book team : known as the Champions ?
+3	, Who comprised ? the now-defunct comic book team known as . the Champions ?
+3	, Who comprised the now-defunct comic book team known ; as the . Champions ?
+3	Who comprised the now-defunct comic book team : known as the Champions ?
+3	Who comprised the ! now-defunct ? comic : book team known : as the Champions ?
 3	Who comprised the now-defunct comic book team known as the Champions ?
-0	; How do you ! make a paintball . ?
-0	How ; do you make a ? paintball ?
-0	How . do you ; make a paintball ?
-0	How do you make : a ! paintball ?
-0	How do you make , a paintball ?
-0	How do you make a paintball ? ?
-0	How do you make ! a paintball ?
-0	How do you make a ; paintball ?
-0	How do you make a paintball ; ?
+0	? How do . you make a paintball , ?
+0	How ? do , you make a paintball ? ?
+0	? How do you make a . paintball ?
+0	How do you ? make a paintball , ?
+0	How do ! you ; make a paintball : ?
+0	How do you ; make . a ? paintball ?
+0	How do you ! make : a paintball ?
+0	How do ; you make a paintball ?
+0	How , do you , make a : paintball ?
 0	How do you make a paintball ?
-4	What ? U.S. state is Fort Knox in ?
-4	What U.S. , state is Fort Knox ; in ! ?
-4	What U.S. state is ! Fort Knox : in ?
-4	What U.S. state is Fort Knox . in ?
-4	What U.S. state is Fort , Knox in ?
-4	What U.S. ? state is Fort Knox ? in ?
-4	! What U.S. state ? is Fort Knox in ? ?
-4	What U.S. state ? is ! Fort Knox in ?
-4	What U.S. state is : Fort : Knox in ?
+4	What U.S. . state ! is Fort Knox ; in ?
+4	What U.S. , state is Fort . Knox in ?
+4	What U.S. state is Fort Knox in . ?
+4	What U.S. state is Fort Knox in . ?
+4	. What U.S. , state is Fort Knox in ?
+4	What U.S. state , is Fort Knox ! in ! ?
+4	, What U.S. state is ; Fort ? Knox in ?
+4	What U.S. state ? is Fort Knox in ?
+4	What U.S. , state is Fort Knox , in ?
 4	What U.S. state is Fort Knox in ?
-1	What is a female ; rabbit called . ?
-1	What is ? a female ! rabbit called ?
-1	What ; is ; a female rabbit called : ?
-1	What is a , female rabbit called ?
-1	What is a female rabbit ; called ?
-1	What is ! a female rabbit called ?
-1	What is a female rabbit called ! ?
-1	What is , a female rabbit . called , ?
-1	; What ? is a female rabbit called ?
+1	What is a , female ? rabbit , called ?
+1	What is a female rabbit ! called ?
+1	? What is ! a . female rabbit called ?
+1	What is a female : rabbit ! called ?
+1	What is a female rabbit called ; ?
+1	What . is a female rabbit called ?
+1	, What is a female rabbit ; called : ?
+1	What is a female ! rabbit . called ?
+1	What is a female rabbit , called ?
 1	What is a female rabbit called ?
-4	Where is the highest , point in Japan ?
-4	Where , is the highest point in Japan ?
-4	Where is the , highest point in ! Japan ! ?
-4	, Where is the highest ; point ? in Japan ?
-4	Where is the ? highest point in Japan ?
-4	Where is , the highest point in , Japan ?
-4	Where is the highest , point in ? Japan , ?
-4	Where is the highest : point in Japan ?
-4	Where is the highest point in ! Japan ?
+4	, Where is the highest point ! in Japan ?
+4	? Where is the highest point in ; Japan ? ?
+4	Where is the highest . point in Japan ?
+4	Where is the highest point : in Japan ?
+4	Where is the highest point in Japan ; ?
+4	Where is the highest point ! in Japan , ?
+4	! Where is ; the highest point in Japan ?
+4	Where . is the highest point in Japan ?
+4	Where is the highest point ; in Japan ?
 4	Where is the highest point in Japan ?
-0	! Where do ; chihuahuas come from ?
-0	Where . do chihuahuas come , from ?
-0	Where do chihuahuas come . from ?
-0	Where do chihuahuas come from . ?
-0	Where do chihuahuas come : from ?
-0	Where do chihuahuas come ! from . ?
-0	Where do chihuahuas come from , ?
-0	, Where do ! chihuahuas come from ?
-0	? Where do chihuahuas come from ?
+0	Where , do chihuahuas , come from ?
+0	Where do chihuahuas . come from ?
+0	Where do : chihuahuas come , from ?
+0	Where : do chihuahuas come . from ?
+0	Where ; do chihuahuas come from ! ?
+0	Where do ? chihuahuas ; come from ?
+0	, Where do chihuahuas come from , ?
+0	Where , do chihuahuas ; come from ?
+0	, Where do chihuahuas come from : ?
 0	Where do chihuahuas come from ?
-4	Where ! does Barney : Rubble go to work after , he drops Fred off ? in the `` Flintstones '' cartoon ; series ?
-4	! Where does Barney Rubble go to work ! after ; he drops , Fred ; off in the `` : Flintstones '' cartoon . series ?
-4	Where ! does Barney Rubble go to work after he drops Fred off in the `` Flintstones '' cartoon series ?
-4	Where does Barney Rubble . go ? to work after he drops Fred off in the . `` Flintstones '' ? cartoon series ; ?
-4	Where does Barney Rubble go to ; work : after he drops Fred off in the . `` Flintstones '' cartoon series ?
-4	Where does Barney Rubble go to work ! after he ? drops Fred ? off in the `` Flintstones ; '' cartoon series ?
-4	Where does Barney ! Rubble go to work ? after he drops Fred off in the `` Flintstones '' cartoon , series ?
-4	Where does Barney Rubble go to work after he : drops Fred off in the `` Flintstones '' cartoon . series ?
-4	Where ! does Barney Rubble go to work ; after he drops Fred off in the `` Flintstones '' cartoon series ?
+4	Where ; does Barney Rubble go to work after he ? drops Fred off in the `` Flintstones '' cartoon series ?
+4	Where does Barney Rubble go ; to work after he drops Fred off in the `` Flintstones '' cartoon series ?
+4	! Where does Barney ; Rubble go to work after he drops Fred off in the `` Flintstones '' cartoon series ?
+4	Where ! does Barney Rubble ? go to work after , he drops ; Fred : off in the `` Flintstones '' cartoon series ?
+4	, Where does Barney ; Rubble go to work after he drops : Fred ? off in , the `` , Flintstones '' cartoon series ?
+4	Where : does Barney Rubble go to . work after he drops Fred ? off in the `` Flintstones '' cartoon series ?
+4	; Where does ! Barney Rubble ! go to , work , after he drops Fred off , in the `` Flintstones '' cartoon series ?
+4	Where does Barney Rubble go to work after : he drops Fred off in the `` Flintstones ! '' ? cartoon series ?
+4	Where ! does Barney Rubble . go to work after he drops ? Fred ! off in ; the ! `` Flintstones '' cartoon . series ?
 4	Where does Barney Rubble go to work after he drops Fred off in the `` Flintstones '' cartoon series ?
-4	What ; are the world 's four oceans , ?
-4	What ! are the world 's four oceans ?
-4	! What are ; the world 's four , oceans ?
-4	What ; are the world 's four oceans : ?
-4	What ; are ? the ; world 's four oceans ?
-4	What are ; the world 's four oceans ?
-4	What ! are the world 's four ! oceans . ?
-4	? What are the world 's four oceans ?
-4	What , are the : world 's four oceans . ?
+4	; What are the world 's four oceans ?
+4	, What are . the world 's four ; oceans ?
+4	What are the world ; 's four ! oceans . ?
+4	, What are the , world ; 's four oceans ?
+4	What are the world 's ! four oceans ?
+4	What are the world 's ; four ! oceans ?
+4	What are the world 's four ! oceans ?
+4	What are the world . 's , four oceans ?
+4	What are the world 's ? four oceans ?
 4	What are the world 's four oceans ?
-1	What 's , the only work , by Michelangelo that ! bears his ; signature ?
-1	What 's the only ? work by Michelangelo that . bears , his signature ?
-1	What 's : the only work by : Michelangelo that bears his ! signature ?
+1	What 's the ? only work , by Michelangelo that bears . his signature ?
+1	? What 's the only work by ! Michelangelo that bears : his signature ?
+1	What 's the only work by Michelangelo . that . bears his . signature ?
+1	! What , 's the only work by Michelangelo ? that ; bears his signature ?
+1	What ? 's the only . work by Michelangelo , that bears ! his signature ?
+1	. What 's the only work by Michelangelo ! that : bears his ; signature ?
+1	What 's the only : work ; by ; Michelangelo that bears ; his signature ?
 1	What 's the only work by Michelangelo ! that bears his signature ?
-1	; What ; 's the only work by Michelangelo that bears his signature : ?
-1	; What 's the : only : work by Michelangelo that bears his signature ! ?
-1	. What 's the only ? work by Michelangelo that bears his , signature ?
-1	What 's the ! only work by Michelangelo that bears ! his signature ?
-1	? What 's the only work ! by Michelangelo that bears ! his signature ; ?
+1	What 's the only work by ? Michelangelo that bears his signature ?
 1	What 's the only work by Michelangelo that bears his signature ?
-1	What , is the : largest snake in the world ?
-1	What is the largest snake ; in , the world ?
-1	What is the . largest snake in ! the world ?
-1	! What is the largest snake in the : world ?
-1	. What is the largest snake in the . world ?
-1	What . is the largest snake in the ; world ?
-1	What is the ; largest snake in the ; world ?
-1	What ! is the largest snake in the ? world ?
-1	What is ! the largest snake in the world ?
+1	What is the largest ? snake in the world ?
+1	What is the largest snake in ; the world ?
+1	What ; is the largest snake in the ; world ?
+1	, What is the largest snake in ? the world ?
+1	What is the largest snake in the , world ?
+1	What is the largest snake in the world . ?
+1	What ? is the largest snake in the world ?
+1	What is , the ; largest snake in the world ?
+1	What , is the largest , snake . in the world ?
 1	What is the largest snake in the world ?
-1	. In what medium is Stuart Hamblen considered ! to : be the ; first singing cowboy ?
-1	In what medium is : Stuart ; Hamblen ; considered to be the first ; singing cowboy ?
-1	In what medium is Stuart Hamblen considered ! to be the first singing cowboy ?
-1	In ? what . medium is ? Stuart Hamblen ; considered ! to be the first singing cowboy ?
-1	In . what medium is Stuart Hamblen considered ? to , be the first singing ? cowboy ?
-1	In what , medium is Stuart Hamblen considered ; to be the first singing cowboy ?
-1	In what . medium is Stuart Hamblen considered to be the first singing cowboy ?
-1	In what , medium ; is ; Stuart Hamblen considered to be . the first singing cowboy ?
-1	In what . medium ! is Stuart Hamblen considered to be the ? first singing cowboy ?
+1	In what medium is Stuart Hamblen , considered to be the first singing : cowboy ? ?
+1	In what medium is Stuart ? Hamblen considered ! to be the first ! singing ! cowboy ?
+1	In what medium ! is Stuart Hamblen considered to be the first : singing cowboy ?
+1	In what medium is Stuart ! Hamblen considered to be the first singing cowboy ?
+1	In what medium is ; Stuart Hamblen . considered to be the , first ; singing ; cowboy ?
+1	In what medium is Stuart Hamblen considered to be the first singing cowboy , ?
+1	In what . medium is Stuart Hamblen considered to be ! the first singing cowboy ?
+1	In what medium is ! Stuart Hamblen considered to be the first singing cowboy ?
+1	In , what medium . is Stuart Hamblen considered to : be : the first singing cowboy , ?
 1	In what medium is Stuart Hamblen considered to be the first singing cowboy ?
-4	Where on the Internet : can I find ! a song lyrics database similar ! to the International Lyrics ? Server ?
-4	Where on the Internet can : I find a song , lyrics database similar to the International Lyrics Server ! ?
-4	Where on the ! Internet can I find a ? song ! lyrics ; database similar . to the International Lyrics , Server ?
-4	. Where on ! the Internet . can I find ! a song ! lyrics database similar to the International Lyrics Server ?
-4	Where : on the , Internet can I ! find , a song lyrics : database similar to the International Lyrics Server ?
-4	, Where on the Internet can I find a song lyrics database , similar to . the International Lyrics Server ?
-4	Where on the Internet can I find a song lyrics database ! similar , to the International Lyrics Server ?
-4	Where on the Internet can I find a song lyrics database ; similar to the , International Lyrics Server ? ?
-4	. Where ? on the Internet can I ; find a song ; lyrics database , similar to the International Lyrics Server , ?
+4	Where on the Internet can I find ! a song ; lyrics database similar to ; the International Lyrics Server ?
+4	Where on the Internet can I find , a song lyrics database similar to the International Lyrics Server ?
+4	Where on the Internet ? can I find a song lyrics database similar to the International Lyrics Server ?
+4	Where on the Internet can ; I ! find a song lyrics : database : similar to the International Lyrics Server ? ?
+4	Where ; on the Internet . can ? I find a song . lyrics database similar to the International ? Lyrics Server ?
+4	Where on the ? Internet ! can I ; find a song lyrics database similar to the International Lyrics ? Server : ?
+4	Where on the Internet , can I find a song : lyrics database ! similar to the International Lyrics Server ; ?
+4	Where on the Internet can I , find a song lyrics database similar to ! the International Lyrics Server ?
+4	: Where on the Internet can I find a song lyrics . database ; similar to the International . Lyrics Server ?
 4	Where on the Internet can I find a song lyrics database similar to the International Lyrics Server ?
-5	How much money does ! a back injury ; lawsuit get ?
-5	How much : money does a back , injury : lawsuit ! get ?
-5	How much money , does a back ! injury lawsuit get ?
-5	: How much money does a . back injury ; lawsuit get . ?
 5	! How : much money does ? a back injury lawsuit , get ?
 5	How much money does a back injury lawsuit ! get ? ?
 5	How much money does ? a back injury lawsuit get ?
 5	How much money does a ; back , injury lawsuit get ? ?
 5	? How much : money does a back injury lawsuit ! get ? ?
+5	. How much money does a back injury lawsuit get , ?
+5	How much : money does a ? back injury lawsuit get ? ?
+5	How much money does ; a back injury lawsuit get ?
+5	, How , much money does a : back injury ? lawsuit get ?
 5	How much money does a back injury lawsuit get ?
-1	. What 's the common name for acetylsalicylic acid ?
-1	What 's the common name ! for acetylsalicylic acid ?
-1	What 's ? the common name for acetylsalicylic . acid ?
-1	What 's the common name ? for acetylsalicylic . acid ?
-1	What 's , the common name for acetylsalicylic acid ?
-1	! What 's the common . name for acetylsalicylic : acid ?
-1	: What : 's the common name for acetylsalicylic acid ! ?
-1	What 's the common name for acetylsalicylic ! acid ?
-1	What 's the common name ! for acetylsalicylic acid ?
+1	What 's the common name for acetylsalicylic acid ! ?
+1	What 's the common name for acetylsalicylic acid ; ?
+1	What : 's the common name for acetylsalicylic acid ?
+1	What 's ! the , common ! name for acetylsalicylic acid ?
+1	! What 's the common name for ! acetylsalicylic acid ?
+1	; What 's the ; common name for acetylsalicylic acid ?
+1	? What , 's the common name for acetylsalicylic acid ?
+1	What ! 's the ? common name for ? acetylsalicylic acid ?
+1	What 's the common name for acetylsalicylic acid : ?
 1	What 's the common name for acetylsalicylic acid ?
-0	! What does the Georgetown ? `` Hoya '' mean ?
-0	; What does the Georgetown `` Hoya '' mean ?
-0	? What , does the Georgetown ; `` Hoya '' mean ?
-0	What ! does the Georgetown `` Hoya ? '' mean ?
-0	What does the ? Georgetown `` Hoya ; '' mean ?
-0	What ! does the Georgetown `` Hoya '' mean ? ?
-0	What does . the Georgetown , `` Hoya , '' mean ?
-0	; What does the Georgetown : `` Hoya '' : mean ?
-0	What does : the Georgetown `` Hoya '' mean ?
+0	What does the Georgetown `` . Hoya '' . mean ?
+0	What does the Georgetown `` Hoya : '' mean , ?
+0	; What ? does the : Georgetown `` Hoya '' mean ?
+0	What does the Georgetown `` Hoya '' mean ; ?
+0	: What does ! the Georgetown `` : Hoya '' mean ?
+0	What does the Georgetown . `` Hoya '' ? mean ; ?
+0	What , does the : Georgetown : `` Hoya '' mean ?
+0	What does the Georgetown `` Hoya '' mean ? ?
+0	What does the Georgetown `` Hoya : '' : mean ?
 0	What does the Georgetown `` Hoya '' mean ?
-4	Where ; can I find a list : of `` ! classic , '' books 5th and 6th graders should , read , ?
-4	? Where can I find a list : of `` : classic '' ; books 5th and . 6th graders should ; read ?
-4	Where can I find : a list of , `` : classic '' ! books 5th and 6th graders should read ?
-4	Where ! can I find a list of `` , classic ; '' books 5th and 6th graders ! should : read , ?
-4	Where ? can I find a list of : `` classic '' books 5th and 6th . graders should : read ?
-4	Where can I , find ! a list : of `` classic '' books 5th and 6th ; graders should read , ?
-4	Where can I find a ; list of `` classic '' books 5th ; and 6th graders should read ?
-4	Where can I find a list of `` classic '' books 5th ; and 6th graders , should read ?
-4	Where can I find a list of `` classic '' books ? 5th and 6th graders should read ?
+4	Where can ! I find a list of `` ? classic '' : books 5th , and 6th graders should read : ?
+4	Where ; can I find a list of `` ; classic '' books 5th and 6th graders should . read ?
+4	Where can I find ? a list ? of `` classic '' books , 5th and 6th graders should read ?
+4	Where can I find a list of `` classic '' books 5th and 6th graders ? should read ?
+4	Where can I , find ! a list : of ; `` classic '' books 5th and 6th graders should , read , ?
+4	Where can I find a list of `` classic '' books 5th ; and 6th graders should , read ?
+4	Where ? can I find a . list ? of `` classic '' books 5th ; and 6th graders should read ?
+4	; Where can I find a ? list of `` classic '' books 5th ! and . 6th graders should read ; ?
+4	Where can I find a list of `` classic '' books ? 5th and 6th graders should ! read ?
 4	Where can I find a list of `` classic '' books 5th and 6th graders should read ?
-1	Which two products use a tiger ; as their symbol ?
-1	? Which two products use a tiger as their symbol ! ?
-1	; Which two ; products use ! a tiger as their symbol ? ?
-1	: Which . two . products use a tiger as their symbol ?
-1	Which two products use a ; tiger ; as their symbol ! ?
-1	Which two , products use a tiger as . their . symbol ?
-1	Which : two products use a tiger as their symbol ?
-1	Which two products use a . tiger : as their symbol ?
-1	Which two ? products use a tiger ? as their symbol ?
+1	: Which . two products use a tiger as their symbol ?
+1	Which two products use ! a tiger as their symbol ?
+1	Which two , products use a ; tiger as their ? symbol , ?
+1	. Which two products use a tiger as their symbol ?
+1	Which two ? products use a tiger as their symbol ?
+1	, Which two ? products use a tiger ? as their symbol ?
+1	Which two products use a tiger as their ! symbol ! ?
+1	Which two products use a tiger as ! their symbol . ?
+1	Which two products use a tiger as ; their , symbol ?
 1	Which two products use a tiger as their symbol ?
-0	How is the election of a new Pope ! announced ! to the world ?
-0	How is the election of a new ! Pope announced to the world . ?
-0	How is the election of a new Pope ? announced to the ; world ?
-0	How is ! the election of ? a new Pope announced to the world ?
-0	How is the . election of a ; new Pope announced ? to the world : ?
-0	How is the : election of a new Pope announced to the world ?
-0	, How is the election of a new Pope ! announced to ; the world ?
-0	How is the election of a ! new Pope announced to the world ?
-0	How is ? the election of a ? new Pope ! announced : to the world ?
+0	How is ? the election , of a : new Pope announced to the world ?
+0	How , is the election of a new : Pope announced ; to the world ! ?
+0	How is the election of a new Pope , announced to the world ?
+0	! How is the election of a ? new Pope announced ; to the world ?
+0	How is the election of a ? new Pope announced ? to the world ?
+0	How , is the election of , a new Pope announced to the : world ?
+0	How is . the election of a new Pope announced to the world ?
+0	How is the election of a new . Pope , announced to : the world ?
+0	How is the election of a : new Pope ; announced to ? the world , ?
 0	How is the election of a new Pope announced to the world ?
-5	How long : does ; it take for your . blood to make one complete trip through the body ?
-5	How long does : it take for your blood ; to make one complete trip through the body ?
-5	How : long does it ? take for your blood to make one : complete : trip through the body ?
-5	How long does ! it ; take for your blood to make ! one complete : trip through the body ? ?
-5	How long does it take for ? your blood to make one complete trip through ? the body ?
-5	How long does it take for your blood to , make ! one complete ! trip through : the body ?
+5	How long does it take , for ? your blood , to ? make one ? complete trip through the body ? ?
+5	How long does it take for ! your blood to make one complete trip through ! the body : ?
 5	How long does it take for your : blood to ? make one complete ; trip through the ? body ? ?
 5	How ! long does . it take for your blood to make ; one complete ? trip through the : body ?
 5	? How , long does it take for your blood to make ! one complete trip through ; the : body . ?
+5	How long ! does it . take ; for your blood to ? make one complete trip through ; the body , ?
+5	How long does it take for your blood to . make one complete trip through the body ?
+5	! How long , does it take for , your blood to make one complete trip through the body ?
+5	How long : does it take for your blood to make one complete trip through the body ?
 5	How long does it take for your blood to make one complete trip through the body ?
-0	, How do ! chickens have , baby chicks ?
-0	; How do ? chickens have baby chicks ?
-0	. How ! do ; chickens have baby chicks ?
-0	How do chickens have baby . chicks ?
-0	How do , chickens have baby chicks ?
+0	How do chickens ! have baby chicks ?
+0	How do chickens , have baby chicks ; ?
 0	. How do chickens have baby chicks ?
-0	! How do ? chickens ? have baby chicks ?
-0	How do chickens have , baby chicks ?
-0	: How do chickens have baby chicks ?
+0	How , do chickens : have . baby chicks ?
+0	How , do chickens have baby . chicks ?
+0	How ? do chickens have baby ? chicks ?
+0	How do : chickens have baby chicks ?
+0	How ? do . chickens have : baby chicks ?
+0	. How do chickens have . baby chicks ; ?
 0	How do chickens have baby chicks ?
-0	What ? is , the : historical relationship of Catholic Church and , bingo ?
-0	What is the historical , relationship of Catholic Church and bingo ?
-0	What is the , historical relationship ? of . Catholic Church : and bingo ?
-0	What is the historical relationship of Catholic Church . and bingo ?
-0	What is the historical relationship of Catholic Church and ! bingo ?
-0	What is the historical . relationship of , Catholic Church and bingo ?
+0	What is the . historical , relationship of : Catholic Church and bingo ?
 0	What ; is the : historical ! relationship of Catholic Church ; and bingo ?
 0	What is the historical ; relationship ? of Catholic Church and bingo ?
 0	What is ; the historical relationship , of Catholic Church : and , bingo ?
+0	What : is the historical relationship of Catholic Church and bingo ?
+0	, What is the historical , relationship of Catholic : Church and bingo ?
+0	What is ? the historical relationship of Catholic Church and bingo : ?
+0	What ; is the ! historical relationship of Catholic Church and bingo ?
+0	What is the historical ; relationship of Catholic Church and bingo ; ?
 0	What is the historical relationship of Catholic Church and bingo ?
-0	: How was the element calcium named ?
-0	How was : the element calcium . named ; ?
-0	How : was the element calcium named ; ?
-0	How , was the element calcium named ?
-0	How . was the element calcium , named ?
-0	How ; was ; the element calcium named : ?
-0	How was ; the : element calcium named ?
-0	How was ; the element calcium ? named ?
-0	How . was the element calcium ; named ?
+0	How was ; the : element calcium named ? ?
+0	How was the element ? calcium ? named ?
+0	How was the element calcium . named ?
+0	How ! was the element ; calcium named ; ?
+0	How ! was the element calcium named ! ?
+0	How was the element calcium ? named ?
+0	! How was the element calcium named ?
+0	! How ? was the element , calcium named ?
+0	How was the element calcium : named . ?
 0	How was the element calcium named ?
-3	What crooner joined The Andrews ; Sisters for Pistol ; Packin Mama ?
-3	What crooner . joined : The ? Andrews , Sisters for Pistol Packin Mama ?
-3	What crooner joined The ; Andrews Sisters for Pistol Packin Mama ?
-3	! What crooner joined The Andrews Sisters for Pistol Packin ? Mama ?
-3	What . crooner joined The Andrews . Sisters for Pistol Packin Mama ?
-3	What crooner ? joined ! The Andrews Sisters ! for Pistol Packin Mama . ?
-3	What crooner , joined The Andrews , Sisters for Pistol Packin Mama ?
-3	What . crooner joined The Andrews ? Sisters for Pistol Packin ! Mama ?
-3	: What crooner joined . The . Andrews ; Sisters for Pistol Packin Mama ?
+3	? What crooner joined The Andrews Sisters for Pistol Packin Mama ?
+3	What crooner ? joined ? The Andrews Sisters for Pistol Packin Mama ?
+3	, What crooner joined ! The Andrews , Sisters for Pistol Packin Mama ?
+3	What crooner joined The . Andrews : Sisters for Pistol Packin Mama ?
+3	What ? crooner joined The Andrews Sisters for Pistol Packin Mama ?
+3	! What crooner joined The , Andrews Sisters : for Pistol Packin Mama ?
+3	; What crooner joined The Andrews Sisters for Pistol Packin Mama ?
+3	What crooner joined The Andrews Sisters for Pistol Packin : Mama ?
+3	What crooner joined The Andrews Sisters for Pistol . Packin Mama ?
 3	What crooner joined The Andrews Sisters for Pistol Packin Mama ?
-3	What piano company claims its product is the `` : Instrument of the immortals '' ?
-3	! What ! piano company claims its product is the ? `` ? Instrument of : the immortals '' ?
-3	! What piano company claims its product is ! the `` , Instrument of the ! immortals '' ?
-3	What piano company claims its product : is . the `` Instrument of the immortals '' ?
-3	, What piano company claims its product is the `` Instrument of the immortals '' ; ?
-3	What piano ; company claims its product is the `` Instrument ! of the immortals '' ?
-3	, What piano company claims its product . is the `` . Instrument of the ! immortals '' ?
-3	? What piano company claims its product is . the `` Instrument of the : immortals . '' ?
-3	What ! piano company claims its product is , the , `` Instrument of the immortals ? '' . ?
+3	What piano company claims : its ? product ; is the `` Instrument of . the ? immortals '' ?
+3	What piano ! company claims its , product is the `` Instrument of the ? immortals '' ?
+3	. What piano , company claims its product is the `` Instrument ; of , the immortals '' ?
+3	What piano company claims its ? product is the ? `` Instrument of the immortals '' ?
+3	What piano company claims its product is the `` Instrument of the ; immortals '' ?
+3	! What piano company claims its product is the `` Instrument of the immortals '' ? ?
+3	What piano company claims its product is . the `` Instrument of the immortals '' ?
+3	; What piano company claims its product is the `` Instrument of . the ; immortals '' ? ?
+3	What piano ? company . claims its product is the `` Instrument of the immortals : '' ?
 3	What piano company claims its product is the `` Instrument of the immortals '' ?
-5	; When did the Bounty ? mutiny : take place ?
+5	When ? did the Bounty : mutiny take place ?
 5	When did the Bounty mutiny take ? place ; ?
 5	When ? did the : Bounty : mutiny take place ?
 5	When did the Bounty mutiny : take place : ?
