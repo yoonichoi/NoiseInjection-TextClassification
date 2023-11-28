@@ -10,7 +10,6 @@ PUNCTUATIONS = ['.', ',', '!', '?', ';', ':']
 DATASETS = ['cr', 'sst2', 'subj', 'pc', 'trec']
 NUM_AUGS = [1, 2, 4, 8]
 ADD_RATIO = 0.3
-LENGTH = 5
 
 ####################################
 ###########		AEDA	############
@@ -36,8 +35,8 @@ def insert_punctuation_marks(sentence, add_ratio=ADD_RATIO):
 ######## Adding Numbers	############
 ####################################
 
-def generate_random_number(length=LENGTH):
-	# given length, generate a random number of that length
+def generate_random_number():
+	length = random.randint(1, 10)
 	number = ''
 	for i in range(length):
 		number += str(random.randint(0, 9))
@@ -64,8 +63,8 @@ def insert_numbers(sentence, add_ratio=ADD_RATIO):
 ######## Adding Alphabets	########
 ####################################
 
-def generate_random_alphabets(length=LENGTH):
-	# given length, generate a random alphabet of that length
+def generate_random_alphabets():
+	length = random.randint(1, 10)
 	alphabet = ''
 	for i in range(length):
 		alphabet += chr(random.randint(97, 122))
