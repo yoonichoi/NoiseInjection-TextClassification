@@ -91,7 +91,7 @@ if __name__ == "__main__":
 
 	#for each dataset
 	for i, dataset_folder in enumerate(dataset_folders):
-		writer.write(dataset + ', addratio, orig_acc, aeda_acc, num_acc, alpha_acc, hybrid_acc' + '\n')
+		writer.write(dataset + ', addratio, aeda_acc, num_acc, alpha_acc, hybrid_acc' + '\n')
 
 		dataset = datasets[i]
 		num_classes = num_classes_list[i]
