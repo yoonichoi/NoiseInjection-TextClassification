@@ -177,7 +177,6 @@ def gen_punc_aug(train_orig, output_file, num_aug=9):
 		aeda.writelines(data_aug)
 	print("finished punc_aug for", train_orig, "to", output_file)
 
-
 ###################################################
 ############### Adding Numbers #################
 ###################################################
@@ -218,6 +217,28 @@ def gen_alpha_aug(train_orig, output_file, num_aug=9):
 	with open(output_file, 'w') as aeda:
 		aeda.writelines(data_aug)
 	print("finished alpha_aug for", train_orig, "to", output_file)
+
+
+
+###################################################
+############### Hybrid aug #################
+###################################################
+
+
+def gen_hybrid_noise_aug(train_orig, output_file, num_aug=9):
+	lines = open(train_orig, 'r').readlines()
+	data_aug = []
+	for line in lines:
+		line1 = line.split('\t')
+		label = line1[0]
+		sentence = line1[1]
+		sentence_aug = noise_3(sentence, num_aug)
+		for i in range(len(sentence_aug)):
+			line_aug = '\t'.join([label, sentence_aug[i]])
+			data_aug.append(line_aug)
+	with open(output_file, 'w') as aeda:
+		aeda.writelines(data_aug)
+	print("finished hybrid noise aug for", train_orig, "to", output_file)
 
 
 
@@ -350,4 +371,6 @@ def one_hot_to_categorical(y):
 
 def get_now_str():
 	return str(strftime("%Y-%m-%d_%H:%M:%S", gmtime()))
+
+
 
