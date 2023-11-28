@@ -95,7 +95,7 @@ def insert_alphabets(sentence, add_ratio=ADD_RATIO):
 def noise_3(sentence, num_aug=9):
 
 	augmented_sentences = []
-	num_new_per_technique = int(num_aug / 4) + 1
+	num_new_per_technique = int(num_aug / 3)
 
 	# punc
 	for _ in range(num_new_per_technique):
