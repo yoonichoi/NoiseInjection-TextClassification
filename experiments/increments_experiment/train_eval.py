@@ -92,7 +92,6 @@ if __name__ == "__main__":
 
 	#for each dataset
 	for i, dataset_folder in enumerate(dataset_folders):
-		writer.write(dataset + ', increment, orig_acc, eda_acc, aeda_acc, num_acc, alpha_acc, hybrid_acc' + '\n')
 
 		dataset = datasets[i]
 		num_classes = num_classes_list[i]
@@ -109,6 +108,8 @@ if __name__ == "__main__":
 		test_path = dataset_folder + '/test.txt'
 		word2vec_pickle = dataset_folder + '/word2vec.pkl'
 		word2vec = load_pickle(word2vec_pickle)
+
+		writer.write(dataset + ', increment, orig_acc, eda_acc, aeda_acc, num_acc, alpha_acc, hybrid_acc' + '\n')
 
 		for increment in increments:
 			

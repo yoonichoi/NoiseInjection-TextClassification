@@ -91,7 +91,7 @@ if __name__ == "__main__":
 
 	#for each dataset
 	for i, dataset_folder in enumerate(dataset_folders):
-		writer.write(dataset + ', addratio, aeda_acc, num_acc, alpha_acc, hybrid_acc' + '\n')
+		
 
 		dataset = datasets[i]
 		num_classes = num_classes_list[i]
@@ -103,6 +103,8 @@ if __name__ == "__main__":
 		word2vec = load_pickle(word2vec_pickle)
 
 		increment = 1	# full data
+		
+		writer.write(dataset + ', addratio, aeda_acc, num_acc, alpha_acc, hybrid_acc' + '\n')
 
 		#calculate original accuracy
 		orig_acc = run_model(train_orig, test_path, num_classes, 1, mode=(basepath, dataset,'orig') if analyze_mode else None)
