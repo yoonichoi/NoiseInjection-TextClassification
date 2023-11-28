@@ -103,7 +103,7 @@ if __name__ == "__main__":
 		word2vec = load_pickle(word2vec_pickle)
 
 		increment = 1	# full data
-		
+
 		writer.write(dataset + ', addratio, aeda_acc, num_acc, alpha_acc, hybrid_acc' + '\n')
 
 		#calculate original accuracy
@@ -136,7 +136,7 @@ if __name__ == "__main__":
 			aeda_accs[dataset][addratio] = aeda_acc
 
 			print(dataset, addratio, aeda_acc, num_acc, alpha_acc, hybrid_acc)  # (A4)
-			writer.write(dataset + ',' + str(addratio) + ',' + str(aeda_acc) + str(num_acc) + str(alpha_acc) + str(hybrid_acc)+'\n') # (A4)
+			writer.write(f"{dataset}, {str(addratio)}, {str(aeda_acc)}, {str(num_acc)}, {str(alpha_acc)}, {str(hybrid_acc)}\n") # (A4)
 			writer.flush()
 
 			gc.collect()

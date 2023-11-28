@@ -138,7 +138,7 @@ if __name__ == "__main__":
 			orig_accs[dataset][increment] = orig_acc
 
 			print(dataset, increment, orig_acc, eda_acc, aeda_acc, num_acc, alpha_acc, hybrid_acc)  # (A4)
-			writer.write(dataset + ',' + str(increment) + ',' + str(orig_acc) + ',' + str(eda_acc) + ',' + str(aeda_acc) + str(num_acc) + str(alpha_acc) + str(hybrid_acc)+'\n') # (A4)
+			writer.write(f"{dataset}, {str(increment)}, {str(orig_acc)}, {str(eda_acc)}, {str(aeda_acc)}, {str(num_acc)}, {str(alpha_acc)}, {str(hybrid_acc)}\n")
 			writer.flush()
 
 			gc.collect()

@@ -142,7 +142,7 @@ if __name__ == "__main__":
 			aeda_accs[dataset][numaug] = aeda_acc
 
 			print(dataset, numaug, eda_acc, aeda_acc, num_acc, alpha_acc, hybrid_acc)  # (A4)
-			writer.write(dataset + ',' + str(numaug) + ',' + str(eda_acc) + ',' + str(aeda_acc) + str(num_acc) + str(alpha_acc) + str(hybrid_acc)+'\n') # (A4)
+			writer.write(f"{dataset}, {str(numaug)}, {str(eda_acc)}, {str(aeda_acc)}, {str(num_acc)}, {str(alpha_acc)}, {str(hybrid_acc)}\n")
 			writer.flush()
 
 			gc.collect()
