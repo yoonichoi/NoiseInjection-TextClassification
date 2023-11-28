@@ -31,7 +31,6 @@ import pickle
 #import data augmentation methods
 from eda_aug import *
 from add_aug import *
-# from aeda_aug import *
 
 ###################################################
 ######### loading folders and txt files ###########
@@ -221,6 +220,28 @@ def gen_alpha_aug(train_orig, output_file, num_aug=9):
 
 
 
+###################################################
+############### Hybrid aug #################
+###################################################
+
+
+def gen_hybrid_noise_aug(train_orig, output_file, num_aug=9):
+	lines = open(train_orig, 'r').readlines()
+	data_aug = []
+	for line in lines:
+		line1 = line.split('\t')
+		label = line1[0]
+		sentence = line1[1]
+		sentence_aug = noise_3(sentence, num_aug)
+		for i in range(len(sentence_aug)):
+			line_aug = '\t'.join([label, sentence_aug[i]])
+			data_aug.append(line_aug)
+	with open(output_file, 'w') as aeda:
+		aeda.writelines(data_aug)
+	print("finished hybrid noise aug for", train_orig, "to", output_file)
+
+
+
 
 ###################################################
 ############### EDA #################
@@ -352,54 +373,4 @@ def get_now_str():
 	return str(strftime("%Y-%m-%d_%H:%M:%S", gmtime()))
 
 
-
-def gen_hybrid_aeda_aug(train_orig, output_file, num_aug=9):
-	lines = open(train_orig, 'r').readlines()
-	data_aug = []
-	for line in lines:
-		line1 = line.split('\t')
-		label = line1[0]
-		sentence = line1[1]
-		sentence_aug = aeda_3(sentence,num_aug)
-		for i in range(len(sentence_aug)):
-			line_aug = '\t'.join([label, sentence_aug[i]])
-			data_aug.append(line_aug)
-	with open(output_file, 'w') as aeda:
-		aeda.writelines(data_aug)
-	print("finished hybrid aeda for", train_orig, "to", output_file)
-
-
-def aeda_3(sentence, num_aug=9):
-
-	augmented_sentences = []
-	num_new_per_technique = int(num_aug / 4) + 1
-
-	# punc
-	for _ in range(num_new_per_technique):
-		augmented_sentence = insert_punctuation_marks(sentence)
-		augmented_sentences.append(augmented_sentence)
-
-	# char
-	for _ in range(num_new_per_technique):
-		augmented_sentence = insert_alphabets(sentence)
-		augmented_sentences.append(augmented_sentence)
-
-	# num
-	for _ in range(num_new_per_technique):
-		augmented_sentence = insert_numbers(sentence)
-		augmented_sentences.append(augmented_sentence)
-
-	shuffle(augmented_sentences)
-
-	# trim so that we have the desired number of augmented sentences
-	if num_aug >= 1:
-		augmented_sentences = augmented_sentences[:num_aug]
-	else:
-		keep_prob = num_aug / len(augmented_sentences)
-		augmented_sentences = [s for s in augmented_sentences if random.uniform(0, 1) < keep_prob]
-
-	# append the original sentence
-	augmented_sentences.append(sentence)
-
-	return augmented_sentences
 

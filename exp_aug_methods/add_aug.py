@@ -2,6 +2,7 @@
 # Akbar Karimi, Leonardo Rossi, Andrea Prati
 
 import random
+from sklearn.utils import shuffle
 
 random.seed(0)
 
@@ -85,6 +86,47 @@ def insert_alphabets(sentence, add_ratio=ADD_RATIO):
 			new_line.append(word)
 	new_line = ' '.join(new_line)
 	return new_line
+
+########################################################################
+# hybrid noise injection data augmentation function
+########################################################################
+
+
+def noise_3(sentence, num_aug=9):
+
+	augmented_sentences = []
+	num_new_per_technique = int(num_aug / 4) + 1
+
+	# punc
+	for _ in range(num_new_per_technique):
+		augmented_sentence = insert_punctuation_marks(sentence)
+		augmented_sentences.append(augmented_sentence)
+
+	# char
+	for _ in range(num_new_per_technique):
+		augmented_sentence = insert_alphabets(sentence)
+		augmented_sentences.append(augmented_sentence)
+
+	# num
+	for _ in range(num_new_per_technique):
+		augmented_sentence = insert_numbers(sentence)
+		augmented_sentences.append(augmented_sentence)
+
+	shuffle(augmented_sentences)
+
+	# trim so that we have the desired number of augmented sentences
+	if num_aug >= 1:
+		augmented_sentences = augmented_sentences[:num_aug]
+	else:
+		keep_prob = num_aug / len(augmented_sentences)
+		augmented_sentences = [s for s in augmented_sentences if random.uniform(0, 1) < keep_prob]
+
+	# append the original sentence
+	augmented_sentences.append(sentence)
+
+	return augmented_sentences
+
+
 
 
 def main(dataset, aug_type):
