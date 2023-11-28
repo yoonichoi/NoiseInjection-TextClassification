@@ -2,7 +2,7 @@
 
 #dataset folder
 datasets = ['cr', 'sst2', 'subj', 'trec', 'pc']
-dataset_folders = ['increments_experiment/data/' + dataset for dataset in datasets] # (A4)
+dataset_folders = ['experiments/addratio_experiment/data/' + dataset for dataset in datasets] # (A4)
 
 #number of output classes
 num_classes_list = [2, 2, 2, 6, 2]

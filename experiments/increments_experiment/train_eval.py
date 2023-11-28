@@ -84,7 +84,7 @@ if __name__ == "__main__":
 
 	# make folder named with timenow_results
 	nowstr = get_now_str() if runname is None else runname
-	basepath = f'exp_aug_methods/outputs/{nowstr}'   # (A4)
+	basepath = f'experiments/increments_experiment/outputs/{nowstr}'   # (A4)
 	os.mkdir(basepath)
 	
 
