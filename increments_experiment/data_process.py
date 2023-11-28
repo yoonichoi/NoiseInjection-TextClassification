@@ -26,7 +26,7 @@ if __name__ == "__main__":
 		gen_alpha_aug(train_orig, train_alpha)	# creates train+alpha
 
 		# HYBRID augmentation (A4)
-		train_hybrid = dataset_folder + '/train_aeda_hybrid.txt'
+		train_hybrid = dataset_folder + '/train_hybrid.txt'
 		gen_hybrid_noise_aug(train_orig, train_hybrid)	# creates train+hybrid
 
 

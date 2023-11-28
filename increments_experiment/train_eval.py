@@ -92,6 +92,7 @@ if __name__ == "__main__":
 
 	#for each dataset
 	for i, dataset_folder in enumerate(dataset_folders):
+		writer.write(dataset + ', increment, orig_acc, eda_acc, aeda_acc, num_acc, alpha_acc, hybrid_acc' + '\n')
 
 		dataset = datasets[i]
 		num_classes = num_classes_list[i]
@@ -102,7 +103,7 @@ if __name__ == "__main__":
 		train_aeda = dataset_folder + '/train_aeda.txt'
 		train_num = dataset_folder + '/train_num.txt'   # (A4)
 		train_alpha = dataset_folder + '/train_alpha.txt'  # (A4)
-		train_hybrid = dataset_folder + '/train_aeda_hybrid.txt'
+		train_hybrid = dataset_folder + '/train_hybrid.txt'
 
 
 		test_path = dataset_folder + '/test.txt'
@@ -123,8 +124,6 @@ if __name__ == "__main__":
 			hybrid_acc = run_model(train_hybrid, test_path, num_classes, increment, mode=(basepath, dataset,'hybrid') if analyze_mode else None)
 			hybrid_accs[dataset][increment] = hybrid_acc
 			
-			
-			
 			#calculate aeda accuracy
 			aeda_acc = run_model(train_aeda, test_path, num_classes, increment, mode=(basepath, dataset,'aeda') if analyze_mode else None)
 			aeda_accs[dataset][increment] = aeda_acc
@@ -142,10 +141,11 @@ if __name__ == "__main__":
 			writer.flush()
 
 			gc.collect()
+		writer.write('\n')
 
 	if analyze_mode:
 		zip_dir = f'{basepath}/analyze_result'
 		shutil.make_archive(f'{zip_dir}/data', 'zip', zip_dir)
 		print(f"Zip file for result analysis created successfully.")
 
-	print(orig_accs, eda_accs, aeda_accs, num_accs, alpha_accs,hybrid_accs)
+	print(orig_accs, eda_accs, aeda_accs, num_accs, alpha_accs, hybrid_accs)
