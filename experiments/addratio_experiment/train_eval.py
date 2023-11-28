@@ -74,9 +74,8 @@ if __name__ == "__main__":
 	print("analyze mode:", analyze_mode)
 	random.seed(sd)
 
-	#get the accuracy at each increment
-	orig_accs = {dataset:{} for dataset in datasets}
-	eda_accs = {dataset:{} for dataset in datasets}
+	#get the accuracy at each addratio
+	# orig_accs = {dataset:{} for dataset in datasets}
 	aeda_accs = {dataset:{} for dataset in datasets}
 	num_accs = {dataset:{} for dataset in datasets} # (A4)
 	alpha_accs = {dataset:{} for dataset in datasets} # (A4)
@@ -92,52 +91,50 @@ if __name__ == "__main__":
 
 	#for each dataset
 	for i, dataset_folder in enumerate(dataset_folders):
-		writer.write(dataset + ', increment, orig_acc, eda_acc, aeda_acc, num_acc, alpha_acc, hybrid_acc' + '\n')
+		writer.write(dataset + ', addratio, orig_acc, aeda_acc, num_acc, alpha_acc, hybrid_acc' + '\n')
 
 		dataset = datasets[i]
 		num_classes = num_classes_list[i]
 		input_size = input_size_list[i]
 
 		train_orig = dataset_folder + '/train_orig.txt'
-		train_eda = dataset_folder + '/train_eda.txt'
-		train_aeda = dataset_folder + '/train_aeda.txt'
-		train_num = dataset_folder + '/train_num.txt'   # (A4)
-		train_alpha = dataset_folder + '/train_alpha.txt'  # (A4)
-		train_hybrid = dataset_folder + '/train_hybrid.txt'
-
-
 		test_path = dataset_folder + '/test.txt'
 		word2vec_pickle = dataset_folder + '/word2vec.pkl'
 		word2vec = load_pickle(word2vec_pickle)
 
-		for increment in increments:
+		increment = 1	# full data
+
+		#calculate original accuracy
+		orig_acc = run_model(train_orig, test_path, num_classes, 1, mode=(basepath, dataset,'orig') if analyze_mode else None)
+		print(dataset, "orig_acc:", orig_acc)
+		writer.write(f"{dataset}, orig_acc: {orig_acc}\n")
+		writer.flush()
+
+		for addratio in addratios:
+
+			train_aeda = f"{dataset_folder}/train_aeda_{str(addratio)}.txt"
+			train_num = f"{dataset_folder}/train_num_{str(addratio)}.txt"
+			train_alpha = f"{dataset_folder}/train_alpha_{str(addratio)}.txt"
+			train_hybrid = f"{dataset_folder}/train_hybrid_{str(addratio)}.txt"
 			
 			#calculate num accuracy (A4)
 			num_acc = run_model(train_num, test_path, num_classes, increment, mode=(basepath, dataset,'num') if analyze_mode else None)
-			num_accs[dataset][increment] = num_acc
+			num_accs[dataset][addratio] = num_acc
 
 			#calculate alpha accuracy (A4)
 			alpha_acc = run_model(train_alpha, test_path, num_classes, increment, mode=(basepath, dataset,'alpha') if analyze_mode else None)
-			alpha_accs[dataset][increment] = alpha_acc
+			alpha_accs[dataset][addratio] = alpha_acc
 
 			#calculate hybrid accuracy (A4)
 			hybrid_acc = run_model(train_hybrid, test_path, num_classes, increment, mode=(basepath, dataset,'hybrid') if analyze_mode else None)
-			hybrid_accs[dataset][increment] = hybrid_acc
+			hybrid_accs[dataset][addratio] = hybrid_acc
 			
 			#calculate aeda accuracy
 			aeda_acc = run_model(train_aeda, test_path, num_classes, increment, mode=(basepath, dataset,'aeda') if analyze_mode else None)
-			aeda_accs[dataset][increment] = aeda_acc
+			aeda_accs[dataset][addratio] = aeda_acc
 
-			#calculate eda accuracy
-			eda_acc = run_model(train_eda, test_path, num_classes, increment,  mode=(basepath, dataset,'eda') if analyze_mode else None)
-			eda_accs[dataset][increment] = eda_acc
-
-			#calculate original accuracy
-			orig_acc = run_model(train_orig, test_path, num_classes, increment,  mode=(basepath, dataset,'orig') if analyze_mode else None)
-			orig_accs[dataset][increment] = orig_acc
-
-			print(dataset, increment, orig_acc, eda_acc, aeda_acc, num_acc, alpha_acc, hybrid_acc)  # (A4)
-			writer.write(dataset + ',' + str(increment) + ',' + str(orig_acc) + ',' + str(eda_acc) + ',' + str(aeda_acc) + str(num_acc) + str(alpha_acc) + str(hybrid_acc)+'\n') # (A4)
+			print(dataset, addratio, aeda_acc, num_acc, alpha_acc, hybrid_acc)  # (A4)
+			writer.write(dataset + ',' + str(addratio) + ',' + str(aeda_acc) + str(num_acc) + str(alpha_acc) + str(hybrid_acc)+'\n') # (A4)
 			writer.flush()
 
 			gc.collect()
@@ -148,4 +145,5 @@ if __name__ == "__main__":
 		shutil.make_archive(f'{zip_dir}/data', 'zip', zip_dir)
 		print(f"Zip file for result analysis created successfully.")
 
-	print(orig_accs, eda_accs, aeda_accs, num_accs, alpha_accs, hybrid_accs)
+	print(orig_acc)
+	print(aeda_accs, num_accs, alpha_accs, hybrid_accs)
