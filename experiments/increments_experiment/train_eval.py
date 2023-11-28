@@ -85,7 +85,11 @@ if __name__ == "__main__":
 	# make folder named with timenow_results
 	nowstr = get_now_str() if runname is None else runname
 	basepath = f'experiments/increments_experiment/outputs/{nowstr}'   # (A4)
-	os.mkdir(basepath)
+	if not os.path.exists(basepath):
+		os.mkdir(basepath)
+		print(f"Created the directory '{basepath}'.")
+	else:
+		print(f"The directory '{basepath}' already exists.")
 	
 
 	writer = open(f'{basepath}/result_{sd}.csv', 'w')
