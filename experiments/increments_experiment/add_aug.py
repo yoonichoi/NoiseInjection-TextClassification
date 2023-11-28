@@ -19,7 +19,7 @@ ADD_RATIO = 0.3
 def insert_punctuation_marks(sentence, add_ratio=ADD_RATIO):
 	words = sentence.split(' ')
 	new_line = []
-	q = random.randint(1, int(add_ratio * len(words) + 1))
+	q = min(random.randint(1, int(add_ratio * len(words) + 1)), len(words))
 	qs = random.sample(range(0, len(words)), q)
 
 	for j, word in enumerate(words):
@@ -46,7 +46,7 @@ def generate_random_number():
 def insert_numbers(sentence, add_ratio=ADD_RATIO):
 	words = sentence.split(' ')
 	new_line = []
-	q = random.randint(1, int(add_ratio * len(words) + 1))	# number of numbers to add
+	q = min(random.randint(1, int(add_ratio * len(words) + 1)), len(words))
 	qs = random.sample(range(0, len(words)), q)	# indices to add numbers to
 
 	for j, word in enumerate(words):
@@ -74,7 +74,7 @@ def generate_random_alphabets():
 def insert_alphabets(sentence, add_ratio=ADD_RATIO):
 	words = sentence.split(' ')
 	new_line = []
-	q = random.randint(1, int(add_ratio * len(words) + 1))	# number of alphabets to add
+	q = min(random.randint(1, int(add_ratio * len(words) + 1)), len(words))
 	qs = random.sample(range(0, len(words)), q)	# indices to add alphabets to
 
 	for j, word in enumerate(words):
