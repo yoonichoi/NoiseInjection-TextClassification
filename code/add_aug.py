@@ -2,16 +2,14 @@
 # Akbar Karimi, Leonardo Rossi, Andrea Prati
 
 import random
+from sklearn.utils import shuffle
 
 random.seed(0)
 
 PUNCTUATIONS = ['.', ',', '!', '?', ';', ':']
 DATASETS = ['cr', 'sst2', 'subj', 'pc', 'trec']
-# DATASETS = ['data/train/pc']
 NUM_AUGS = [1, 2, 4, 8]
-# NUM_AUGS = [3]
 ADD_RATIO = 0.3
-# LENGTHS = [1,2,3,4,5,6,7,8,9,10]	# length of random numbers/alphabets
 
 ####################################
 ###########		AEDA	############
@@ -21,7 +19,7 @@ ADD_RATIO = 0.3
 def insert_punctuation_marks(sentence, add_ratio=ADD_RATIO):
 	words = sentence.split(' ')
 	new_line = []
-	q = random.randint(1, int(add_ratio * len(words) + 1))
+	q = min(random.randint(1, int(add_ratio * len(words) + 1)), len(words))
 	qs = random.sample(range(0, len(words)), q)
 
 	for j, word in enumerate(words):
@@ -37,23 +35,23 @@ def insert_punctuation_marks(sentence, add_ratio=ADD_RATIO):
 ######## Adding Numbers	############
 ####################################
 
-def generate_random_number(length):
-	# given length, generate a random number of that length
+def generate_random_number():
+	length = random.randint(1, 10)
 	number = ''
 	for i in range(length):
 		number += str(random.randint(0, 9))
 	return number
 
 # Insert random number words of specified length into a given sentence with the given ratio "add_ratio"
-def insert_numbers(sentence, length, add_ratio=ADD_RATIO):
+def insert_numbers(sentence, add_ratio=ADD_RATIO):
 	words = sentence.split(' ')
 	new_line = []
-	q = random.randint(1, int(add_ratio * len(words) + 1))	# number of numbers to add
+	q = min(random.randint(1, int(add_ratio * len(words) + 1)), len(words))
 	qs = random.sample(range(0, len(words)), q)	# indices to add numbers to
 
 	for j, word in enumerate(words):
 		if j in qs:
-			new_line.append(generate_random_number(length))
+			new_line.append(generate_random_number())
 			new_line.append(word)
 		else:
 			new_line.append(word)
@@ -65,28 +63,69 @@ def insert_numbers(sentence, length, add_ratio=ADD_RATIO):
 ######## Adding Alphabets	########
 ####################################
 
-def generate_random_alphabets(length):
-	# given length, generate a random alphabet of that length
+def generate_random_alphabets():
+	length = random.randint(1, 10)
 	alphabet = ''
 	for i in range(length):
 		alphabet += chr(random.randint(97, 122))
 	return alphabet
 
 # Insert random number words of specified length into a given sentence with the given ratio "add_ratio"
-def insert_alphabets(sentence, length, add_ratio=ADD_RATIO):
+def insert_alphabets(sentence, add_ratio=ADD_RATIO):
 	words = sentence.split(' ')
 	new_line = []
-	q = random.randint(1, int(add_ratio * len(words) + 1))	# number of alphabets to add
+	q = min(random.randint(1, int(add_ratio * len(words) + 1)), len(words))
 	qs = random.sample(range(0, len(words)), q)	# indices to add alphabets to
 
 	for j, word in enumerate(words):
 		if j in qs:
-			new_line.append(generate_random_alphabets(length))
+			new_line.append(generate_random_alphabets())
 			new_line.append(word)
 		else:
 			new_line.append(word)
 	new_line = ' '.join(new_line)
 	return new_line
+
+########################################################################
+# hybrid noise injection data augmentation function
+########################################################################
+
+
+def noise_3(sentence, addratio, num_aug=9):
+
+	augmented_sentences = []
+	num_new_per_technique = int(num_aug / 3)
+
+	# punc
+	for _ in range(num_new_per_technique):
+		augmented_sentence = insert_punctuation_marks(sentence, addratio)
+		augmented_sentences.append(augmented_sentence)
+
+	# char
+	for _ in range(num_new_per_technique):
+		augmented_sentence = insert_alphabets(sentence, addratio)
+		augmented_sentences.append(augmented_sentence)
+
+	# num
+	for _ in range(num_new_per_technique):
+		augmented_sentence = insert_numbers(sentence, addratio)
+		augmented_sentences.append(augmented_sentence)
+
+	shuffle(augmented_sentences)
+
+	# trim so that we have the desired number of augmented sentences
+	if num_aug >= 1:
+		augmented_sentences = augmented_sentences[:num_aug]
+	else:
+		keep_prob = num_aug / len(augmented_sentences)
+		augmented_sentences = [s for s in augmented_sentences if random.uniform(0, 1) < keep_prob]
+
+	# append the original sentence
+	augmented_sentences.append(sentence)
+
+	return augmented_sentences
+
+
 
 
 def main(dataset, aug_type):
