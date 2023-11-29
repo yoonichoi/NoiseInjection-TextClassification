@@ -125,6 +125,38 @@ def noise_3(sentence, addratio, num_aug=9):
 
 	return augmented_sentences
 
+def noise_3_inplace(sentence, addratio, num_aug=9):
+
+	augmented_sentences = []
+
+	# punc
+	for _ in range(num_aug):
+		augmented_sentence = insert_punctuation_marks(sentence, addratio)
+		augmented_sentences.append(augmented_sentence)
+
+	for _ in range(9):
+		augmented_sentence = insert_alphabets(sentence, addratio)
+		augmented_sentences.append(augmented_sentence)
+
+	# char
+	for i in range(len(augmented_sentences)):
+		augmented_sentences[i] = insert_alphabets(augmented_sentences[i],addratio)
+		augmented_sentences[i] = insert_numbers(augmented_sentences[i],addratio)
+
+	shuffle(augmented_sentences)
+
+	# trim so that we have the desired number of augmented sentences
+	if num_aug >= 1:
+		augmented_sentences = augmented_sentences[:num_aug]
+	else:
+		keep_prob = num_aug / len(augmented_sentences)
+		augmented_sentences = [s for s in augmented_sentences if random.uniform(0, 1) < keep_prob]
+
+	# append the original sentence
+	augmented_sentences.append(sentence)
+
+	return augmented_sentences
+
 
 
 

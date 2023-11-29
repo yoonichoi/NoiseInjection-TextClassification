@@ -29,6 +29,9 @@ if __name__ == "__main__":
 			train_hybrid = f"{dataset_folder}/train_hybrid_{str(numaug)}.txt"
 			gen_hybrid_noise_aug(train_orig, train_hybrid, numaug)	# creates train+hybrid
 
+			train_hybrid = f"{dataset_folder}/train_hybrid_inplace_{str(numaug)}.txt"
+			gen_hybrid_noise_aug_inplace(train_orig, train_hybrid, numaug)	# creates train+hybrid+inplace
+
 
 
 		#generate the vocab dictionary
