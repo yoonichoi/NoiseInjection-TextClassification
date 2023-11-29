@@ -1,71 +1,92 @@
-# import pandas as pd
-# import matplotlib.pyplot as plt
-# import glob
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
 
-# from PIL import Image
-# import sys
+def read_and_split_datasets(file_path):
+    full_df = pd.read_csv(file_path)
+    dataset_names = full_df.iloc[:, 0].unique()
+    datasets = {name: full_df[full_df.iloc[:, 0] == name] for name in dataset_names}
+    return datasets
 
-# basepath = 'reproduce_fig2/outputs'
-# folder_path = f'{basepath}/{sys.argv[1]}'
+def convert_to_numeric(df):
+    return df.apply(pd.to_numeric, errors='coerce')
 
-# file_paths = []
-# for sd in range(5):
-#     file_paths.extend(glob.glob(f'{folder_path}/result_{sd}.csv'))
+file_names = [
+    "experiments/addratio_experiment/outputs/initial/result_0.csv", 
+    "experiments/addratio_experiment/outputs/initial/result_1.csv", 
+    "experiments/addratio_experiment/outputs/initial/result_2.csv", 
+    "experiments/addratio_experiment/outputs/initial/result_3.csv", 
+    "experiments/addratio_experiment/outputs/initial/result_4.csv"
+]
 
-# dfs = [pd.read_csv(file_path, sep=',', names=['Dataset', 'Percentage', 'Original', 'EDA', 'AEDA']) for file_path in file_paths]
-# aggregated_df = pd.concat(dfs, ignore_index=True)
+all_datasets = [read_and_split_datasets(file_name) for file_name in file_names]
 
-# average_df = aggregated_df.groupby(['Dataset', 'Percentage']).mean().reset_index()
+average_datasets = {}
+for dataset_name in all_datasets[0].keys():
+    numeric_datasets = [convert_to_numeric(datasets[dataset_name]) for datasets in all_datasets]
+    average_datasets[dataset_name] = pd.concat(numeric_datasets).groupby(level=0).mean()
 
-# average_df.to_csv(f'{folder_path}/aggregated_results.csv', index=False)
+# Combine averaged datasets into a single dataframe
+combined_averages_df = pd.concat(average_datasets).reset_index(level=0)
+#combined_averages_df = combined_averages_df.drop(columns=['level_0'])
+# # Print current column names to check
+# print("Current column names:", combined_averages_df.columns)
+# print("Number of columns:", len(combined_averages_df.columns))
+combined_averages_df.columns = ['Extra','Dataset Name', 'Add_Ratio','Aeda_Acc', 'Num_Acc', 'Alpha_Acc', 'Hybrid_Acc']
+combined_averages_df = combined_averages_df.drop(columns=['Dataset Name'])
+combined_averages_df.columns = ['Dataset', 'Add_Ratio', 'Aeda_Acc', 'Num_Acc', 'Alpha_Acc', 'Hybrid_Acc']
+combined_averages_df = combined_averages_df.dropna()
+# Save the combined dataframe to a CSV file
+combined_averages_df.to_csv("experiments/addratio_experiment/outputs/initial/aggregated_results.csv", index=False)
 
-# datasets = ['sst2', 'cr', 'subj', 'trec', 'pc']
+# Group by 'Increment' and calculate the mean for each group
+grouped = combined_averages_df.drop(columns=['Dataset']).groupby('Add_Ratio').mean()
+#print(grouped)
 
-# for i, dataset in enumerate(datasets):
-#     plt.figure(figsize=(5, 5))  # Create a new figure for each plot
+# Plotting each metric across increments
+plt.figure(figsize=(10, 6))
 
-#     dataset_df = average_df[average_df['Dataset'] == dataset]
+# Assuming your metrics columns are named 'Orig_Acc', 'Eda_Acc', 'Aeda_Acc', 'Num_Acc', 'Alpha_Acc', 'Hybrid_Acc'
+# Adjust the column names if they are different
+metrics = ['Aeda_Acc', 'Num_Acc', 'Alpha_Acc', 'Hybrid_Acc']
+for metric in metrics:
+    plt.plot(grouped.index, grouped[metric], marker='o', label=metric)
 
-#     # Find the minimum and maximum values across the 'Original', 'EDA', and 'AEDA' columns for the current dataset
-#     y_min = dataset_df[['Original', 'EDA', 'AEDA']].min().min() - 0.02
-#     y_max = dataset_df[['Original', 'EDA', 'AEDA']].max().max() + 0.02
+plt.title('Average Metrics Across All Datasets Grouped by Add Ratio')
+plt.xlabel('Add Ratio')
+plt.ylabel('Average Metric Value')
+plt.legend()
+plt.grid(True)
 
-#     plt.plot(dataset_df['Percentage'], dataset_df['Original'], label=f'Original', marker='o')
-#     plt.plot(dataset_df['Percentage'], dataset_df['EDA'], label=f'EDA', marker='o')
-#     plt.plot(dataset_df['Percentage'], dataset_df['AEDA'], label=f'AEDA', marker='o')
+#plt.yticks(np.arange(0.6, 0.9, 0.02))
 
-#     plt.xlabel('Percentage of Data')
-#     plt.ylabel('Accuracy')
-
-#     title = {'cr':'CR', 'pc':'PC', 'sst2':'SST-2', 'subj':'SUBJ','trec':'TREC'}
-#     plt.title(title[dataset])
-#     plt.ylim(ymin=y_min, ymax=y_max)
-#     plt.grid(True)  # Add grid lines
-#     plt.legend()
-
-#     # Save each figure separately
-#     plt.savefig(f'{folder_path}/plots/accuracy_trend_{dataset}.png')
+# Save the plot to a placeholder path
+placeholder_path = 'experiments/addratio_experiment/outputs/initial/plots/average_metrics_across_addratio.png'
+plt.savefig(placeholder_path)
 
 
 
 
-# folder_path = f'{folder_path}/plots'
-# datasets = ['sst2', 'cr', 'subj', 'trec', 'pc']
 
-# # Open the images and resize them to have the same height
-# images = [Image.open(f'{folder_path}/accuracy_trend_{dataset}.png') for dataset in datasets]
-# widths, heights = zip(*(i.size for i in images))
-# max_height = max(heights)
-# resized_images = [img.resize((int(img.width * max_height / img.height), max_height)) for img in images]
 
-# # Combine the images side by side
-# total_width = sum(img.width for img in resized_images)
-# combined_img = Image.new('RGB', (total_width, max_height))
 
-# x_offset = 0
-# for img in resized_images:
-#     combined_img.paste(img, (x_offset, 0))
-#     x_offset += img.width
 
-# # Save the combined image
-# combined_img.save(f'{folder_path}/combined_accuracy_trend.png')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
