@@ -8,8 +8,7 @@ dataset_folders = ['experiments/numaug_experiment/data/' + dataset for dataset i
 num_classes_list = [2, 2, 2, 6, 2]
 
 #num_aug increments
-# 1 to 50 in 5 increments
-num_augs = [1,3,6,9,12] + [i for i in range(15, 51, 5)]
+num_augs = [1,3,6,9,12,15,18,20]
 
 #number of words for input
 input_size_list = [50, 50, 40, 25, 25]
