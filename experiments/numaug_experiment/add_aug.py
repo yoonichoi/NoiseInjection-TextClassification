@@ -91,24 +91,24 @@ def insert_alphabets(sentence, add_ratio=ADD_RATIO):
 ########################################################################
 
 
-def noise_3(sentence, addratio, num_aug=9):
+def noise_3(sentence, num_aug=9):
 
 	augmented_sentences = []
 	num_new_per_technique = int(num_aug / 3)
 
 	# punc
 	for _ in range(num_new_per_technique):
-		augmented_sentence = insert_punctuation_marks(sentence, addratio)
+		augmented_sentence = insert_punctuation_marks(sentence)
 		augmented_sentences.append(augmented_sentence)
 
 	# char
 	for _ in range(num_new_per_technique):
-		augmented_sentence = insert_alphabets(sentence, addratio)
+		augmented_sentence = insert_alphabets(sentence)
 		augmented_sentences.append(augmented_sentence)
 
 	# num
 	for _ in range(num_new_per_technique):
-		augmented_sentence = insert_numbers(sentence, addratio)
+		augmented_sentence = insert_numbers(sentence)
 		augmented_sentences.append(augmented_sentence)
 
 	shuffle(augmented_sentences)
