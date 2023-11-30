@@ -113,8 +113,6 @@ if __name__ == "__main__":
 		word2vec_pickle = dataset_folder + '/word2vec.pkl'
 		word2vec = load_pickle(word2vec_pickle)
 
-		writer.write(dataset + ', increment, orig_acc, eda_acc, aeda_acc, num_acc, alpha_acc, hybrid_acc' + '\n')
-
 		for increment in increments:
 			
 			#calculate num accuracy (A4)
@@ -146,7 +144,6 @@ if __name__ == "__main__":
 			writer.flush()
 
 			gc.collect()
-		writer.write('\n')
 
 	if analyze_mode:
 		zip_dir = f'{basepath}/analyze_result'

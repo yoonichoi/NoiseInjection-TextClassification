@@ -143,7 +143,6 @@ if __name__ == "__main__":
 			writer.flush()
 
 			gc.collect()
-		writer.write('\n')
 
 	if analyze_mode:
 		zip_dir = f'{basepath}/analyze_result'
