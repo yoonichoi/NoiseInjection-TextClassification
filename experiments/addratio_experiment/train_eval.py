@@ -92,6 +92,7 @@ if __name__ == "__main__":
 	
 
 	writer = open(f'{basepath}/result_{sd}.csv', 'w')
+	writer2 = open(f'{basepath}/orig_acc.csv', 'a')
 
 	#for each dataset
 	for i, dataset_folder in enumerate(dataset_folders):
@@ -108,13 +109,11 @@ if __name__ == "__main__":
 
 		increment = 1	# full data
 
-		writer.write(dataset + ', addratio, aeda_acc, num_acc, alpha_acc, hybrid_acc' + '\n')
-
 		#calculate original accuracy
 		orig_acc = run_model(train_orig, test_path, num_classes, 1, mode=(basepath, dataset,'orig') if analyze_mode else None)
 		print(dataset, "orig_acc:", orig_acc)
-		writer.write(f"{dataset}, orig_acc: {orig_acc}\n")
-		writer.flush()
+		writer2.write(f"{dataset}, {orig_acc}\n")
+		writer2.flush()
 
 		for addratio in addratios:
 
