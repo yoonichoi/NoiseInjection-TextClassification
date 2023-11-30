@@ -4,6 +4,7 @@ import glob
 
 from PIL import Image
 import sys
+import os
 
 basepath = 'experiments/addratio_experiment/outputs'
 folder_path = f'{basepath}/{sys.argv[1]}'
@@ -51,6 +52,8 @@ for i, dataset in enumerate(datasets):
     plt.legend()
 
     # Save each figure separately
+    if os.path.exists(f'{folder_path}/plots') == False:
+        os.mkdir(f'{folder_path}/plots')
     plt.savefig(f'{folder_path}/plots/accuracy_trend_{dataset}.png')
 
 

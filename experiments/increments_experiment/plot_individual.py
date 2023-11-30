@@ -47,6 +47,8 @@ for i, dataset in enumerate(datasets):
     plt.legend()
 
     # Save each figure separately
+    if os.path.exists(f'{folder_path}/plots') == False:
+        os.mkdir(f'{folder_path}/plots')
     plt.savefig(f'{folder_path}/plots/accuracy_trend_{dataset}.png')
 
 
