@@ -1,19 +1,43 @@
 # Exploring Noise Injection for Text Classification
 
-This is the reimplementation code of Figure 2 in [AEDA: An Easier Data Augmentation Technique for Text Classification](https://arxiv.org/abs/2108.13230), forked from the [original repo](https://github.com/akkarimi/aeda_nlp).
+Building upon our comprehensive reimplementation of [AEDA: An Easier Data Augmentation Technique for Text Classification](https://arxiv.org/abs/2108.13230), we extended our inquiry into advanced data augmentation techniques for text classification in natural language processing (NLP). We explored the integration of **alphabet and numerical noise**, in addition to AEDA’s foundational technique of punctuation mark insertion. 
 
-AEDA takes the baseline code from [EDA: Easy Data Augmentation techniques for boosting performance on text classification tasks](https://arxiv.org/abs/1901.11196) ([GitHub Link](https://github.com/jasonwei20/eda_nlp))
+*To view information on AEDA Reimplementation, click [here](https://github.com/yoonichoi/aeda_reimplement/blob/master/Reimplementing-AEDA.md)*
 
-### Original Figure 2 from Paper
-![alt text](aeda_figure2.png)
-### Our replication
-You can find individual plots with better resolution in [`reproduce_fig2/outputs/plots`](https://github.com/yoonichoi/aeda_reimplement/tree/master/reproduce_fig2/outputs/plots)
-
-![alt text](reproduce_fig2/outputs/initial/plots/combined_accuracy_trend.png)
+*To view our poster for the project, click [here](https://docs.google.com/presentation/d/1pMMEvN1McZyl2atmuSEe5w6ybc1326O54hHCtroOuf0/edit)*
 
 ---
 
-# Steps to reproduce results
+### Repository Structure
+```
+├── aeda
+├── code
+├── data
+├── experiments
+│   ├── addratio_experiment
+│   ├── bert
+│   ├── increments_experiment
+│   └── numaug_experiment
+└── reproduce_fig2
+```
+- `aeda` and `data` are from the [original AEDA repo](https://github.com/akkarimi/aeda_nlp)
+- `code` includes augmentation code you can apply on your own data
+- `experiments` include code we used to run different experiments for our project. Refer to each folder's `README` for hyperparameter settings used
+- `reproduce_fig2` is for our [AEDA reimplementation task]((https://github.com/yoonichoi/aeda_reimplement/blob/master/Reimplementing-AEDA.md))
+
+### Results from our experiments
+
+You can find individual plots with better resolution in `outputs/[runname]/plots` folder for each experiment
+- Add Ratio Experiment
+![alt text](experiments/addratio_experiment/outputs/initial/plots/without_hybrid/combined_accuracy_trend_without_hybrid.png)
+- Increments Experiment
+![alt text](experiments/increments_experiment/outputs/initial/plots/without_hybrid/combined_accuracy_trend.png)
+- Number of Augmentations Experiment
+![alt text](experiments/numaug_experiment/outputs/initial/plots/without_hybrid/combined_accuracy_trend_without_hybrid.png)
+
+---
+
+### To run experiments
 1. Set up requirements
 ```bash
 pip install -r requirements.txt
@@ -26,44 +50,26 @@ mkdir word2vec
 mv glove.840B.300d.txt word2vec/ && rm glove.840B.300d.zip
 ```
 
-3. Copy and organize `data/` folder into `reproduce_fig2/data/`, creating `train_orig.txt` and `test.txt` in each dataset folder
-
-4. Process data for training; this is produce `aeda` and `eda` augmentation on top of the original training data. Refer to [Hyperparameters Used for Data Processing](https://github.com/yoonichoi/aeda_reimplement#hyperparameters-used-for-data-processing), which is already set as the default value.
-
+3. `cd` to the experiment folder you want to run. 
 ```bash
-python reproduce_fig2/data_process.py
+cd experiments/[experiment_folder]
 ```
 
-5. Running following command will automatically run all experiments according to config specified in `reproduce_fig2/config.py`, and output results to `reproduce_fig2/outputs`.
-
-_*Note: running below script will run `train_eval.py` in 5 different seeds sequentially, without `analyze` mode. Feel free to run the experiments in a parallalized manner if you want to speed things up._
-```bash
-chmod +x reproduce_fig2/run_exp.sh
-reproduce_fig2/run_exp.sh
-```
-
-`train_eval.py` takes three arguments, `seed`, `runname` and `analyze`. If you don't specify `runname`, it will automatically save experiment results under a folder name with current time. If you use `analyze` flag, it will save `test_x`, `test_y` and `pred_y` for each dataset and each increment into `.pkl` files for further analysis. It will be saved as `.zip` file as well. Note that these files will be large. 
-
-Example analysis data `.zip` file from running it on seed 0 could be found on this [link](https://drive.google.com/file/d/1kvScaiyo_20bXshSQtTk4xVveIFmtRzg/view?usp=sharing)
+4. Process data for training; this produces appropriate augmented data for the experiment, on top of the original training data. Refer to `data_process.py` to check which augmentations will be created.
 
 ```bash
-python reproduce_fig2/train_eval.py --seed 0 --runname myrun --analyze
+python data_process.py
 ```
 
-6. (Optional) Run below command to create a figure based on the experiments result, specifying `runname` in `reproduce_fig2/outputs/` that you want to create plots based on. Resulting plot should look similar to the one in the original paper!
+5. Run the experiments.
 ```bash
-python reproduce_fig2/plot.py initial
+python train_eval.py --seed 0 --runname myrun
 ```
 
----
+`train_eval.py` takes three arguments, `seed`, `runname` and `analyze`. If you don't specify `runname`, it will automatically save experiment results under a folder name with current time. 
 
-### Hyperparameters Used for data processing
 
-| Hyperparameter   | EDA  | AEDA  |
-|------------------|-----------|------------|
-| alpha_sr         | 0.3       | -          |
-| alpha_ri         | 0.2       | -          |
-| alpha_rs         | 0.1       | -          |
-| p_rd             | 0.15      | -          |
-| punc_ratio       | -         | 0.3        |
-| num_aug          | 9         | 9          |
+6. (Optional) Run below command to create a figure based on the experiments result, specifying `runname` in `outputs/` that you want to create plots based on.
+```bash
+python plot_individual.py myrun
+```
