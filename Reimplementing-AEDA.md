@@ -1,4 +1,4 @@
-# Exploring Noise Injection for Text Classification
+# Reimplemnting AEDA
 
 This is the reimplementation code of Figure 2 in [AEDA: An Easier Data Augmentation Technique for Text Classification](https://arxiv.org/abs/2108.13230), forked from the [original repo](https://github.com/akkarimi/aeda_nlp).
 
@@ -28,7 +28,7 @@ mv glove.840B.300d.txt word2vec/ && rm glove.840B.300d.zip
 
 3. Copy and organize `data/` folder into `reproduce_fig2/data/`, creating `train_orig.txt` and `test.txt` in each dataset folder
 
-4. Process data for training; this is produce `aeda` and `eda` augmentation on top of the original training data. Refer to [Hyperparameters Used for Data Processing](https://github.com/yoonichoi/aeda_reimplement#hyperparameters-used-for-data-processing), which is already set as the default value.
+4. Process data for training; this produces `aeda` and `eda` augmentation on top of the original training data. Refer to [Hyperparameters Used for Data Processing](https://github.com/yoonichoi/aeda_reimplement#hyperparameters-used-for-data-processing), which is already set as the default value.
 
 ```bash
 python reproduce_fig2/data_process.py
