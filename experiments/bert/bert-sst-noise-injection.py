@@ -6,7 +6,8 @@ from transformers import Trainer
 import torch
 
 # Load your data from a text file
-with open("bert/train_aeda_9.txt", "r", encoding="utf-8") as file:
+file_name = "bert/train_orig.txt"
+with open(file_name, "r", encoding="utf-8") as file:
     lines = file.readlines()
     labels, sentences = zip(*[line.strip().split("\t") for line in lines])
     labels = [int(label) for label in labels]
@@ -37,7 +38,7 @@ def tokenize_function_val(example):
 tokenized_val_dataset = Dataset.from_dict(train_dataset).map(tokenize_function_val, batched=True)
 
 data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
-training_args = TrainingArguments("sst2-finetuned-model_hyb",
+training_args = TrainingArguments("sst2-finetuned-model",
                                   save_total_limit=2,)
 
 model = AutoModelForSequenceClassification.from_pretrained(checkpoint, num_labels=2)
@@ -61,4 +62,4 @@ trainer.train()
 evaluation_results = trainer.evaluate()
 print(evaluation_results)
 
-trainer.save_model("fine_tuned_sst2_model_aeda_hyb")
+trainer.save_model("fine_tuned_sst2_model")
