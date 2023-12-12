@@ -2,9 +2,9 @@
 
 Building upon our comprehensive reimplementation of [AEDA: An Easier Data Augmentation Technique for Text Classification](https://arxiv.org/abs/2108.13230), we extended our inquiry into advanced data augmentation techniques for text classification in natural language processing (NLP). We explored the integration of **alphabet and numerical noise**, in addition to AEDA’s foundational technique of punctuation mark insertion. 
 
-*To view information on AEDA Reimplementation, click [here](https://github.com/yoonichoi/aeda_reimplement/blob/master/Reimplementing-AEDA.md)*
-
-*To view our poster for the project, click [here](https://docs.google.com/presentation/d/1pMMEvN1McZyl2atmuSEe5w6ybc1326O54hHCtroOuf0/edit)*
+*To view information on AEDA Reimplementation, click [here](https://github.com/yoonichoi/aeda_reimplement/blob/master/Reimplementing-AEDA.md)*\
+*To view our poster for the project, click [here](https://docs.google.com/presentation/d/1pMMEvN1McZyl2atmuSEe5w6ybc1326O54hHCtroOuf0/edit)*\
+*To view our report on the project, click [here](https://drive.google.com/file/d/1dtYvTNoYE1oZFg77joMCdxGETfWbxZid/view?usp=sharing)*
 
 ---
 
